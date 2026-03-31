@@ -1,0 +1,1001 @@
+name,location,rate,approx_cost(for two people),cuisines,votes
+Church Street Social,Church Street,4.3,1500.0,"American, North Indian, Chinese, Finger Food, Momos",7568
+20 Feet High,Church Street,4.0,1000.0,"American, Continental, Steak, Salad",938
+Nagarjuna Chimney,Jayanagar,4.0,600.0,"Andhra, Biryani",923
+Madurai Idly Shop,Koramangala 6th Block,3.7,200.0,South Indian,468
+Tunday Kababi,Koramangala 5th Block,3.9,500.0,"North Indian, Kebab",1139
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Mor'ish,Richmond Road,4.1,700.0,"BBQ, Continental, Burger, Wraps, Pizza, Cafe",115
+Tummy Fuel,Jayanagar,4.2,400.0,"Cafe, Beverages, Fast Food",449
+Bhagini Kitchen And Bar,Marathahalli,3.8,1100.0,"Andhra, South Indian, Chinese, North Indian",35
+Szechuan Dragon,HSR,3.9,600.0,"Chinese, Thai, Momos",184
+Boho,Koramangala 5th Block,4.2,1200.0,"Continental, Asian, American, North Indian, Desserts",1721
+House Of Commons,Koramangala 5th Block,4.8,1000.0,"Continental, Asian, North Indian",4390
+Chung Wah,Residency Road,4.0,1000.0,"Chinese, Thai, Momos, Vietnamese",360
+Chickpet Donne Biryani House,Marathahalli,3.7,600.0,"Biryani, South Indian, Fast Food",83
+Calicut Restaurant,Kammanahalli,3.6,450.0,"Kerala, South Indian, North Indian, Chinese",76
+Canopy,MG Road,3.0,800.0,"North Indian, Continental, Chinese",108
+Pizza Hut,Jayanagar,3.8,750.0,"Pizza, Fast Food",706
+3 Spice,Wilson Garden,3.9,450.0,"North Indian, Chinese",157
+Savitha Family Restaurant,Koramangala 4th Block,4.0,500.0,North Indian,198
+Aqua - The Park Bangalore,MG Road,4.0,3000.0,"North Indian, Mediterranean, Chinese",196
+Cafe Vivacity,Banashankari,3.8,650.0,Cafe,90
+Fullyfilled,Indiranagar,4.0,200.0,"Fast Food, Chinese, Lebanese",48
+Mahesh Lunch Home,Residency Road,4.1,1400.0,"Seafood, Mangalorean, North Indian, Chinese",866
+WTF,Koramangala 5th Block,4.1,600.0,"Cafe, Continental",93
+Alpha - House of Biryani & Tandoor,Whitefield,3.5,800.0,"Biryani, North Indian, Chinese",395
+Redberrys,Basavanagudi,4.0,600.0,"Cafe, Italian",219
+AB's - Absolute Barbecues,BTM,4.9,1600.0,"European, Mediterranean, North Indian, BBQ",6404
+The Hunger Room,JP Nagar,3.9,400.0,"Continental, Sandwich, Burger, Italian, Salad, Pizza",37
+The Souk,Ulsoor,3.7,800.0,"Cafe, Mediterranean, Italian, Pizza, Continental",66
+Mahadii's,Kammanahalli,3.9,600.0,"Andhra, North Indian, Chinese",219
+Red Lantern,Cunningham Road,3.7,700.0,"Chinese, Thai",161
+Aroma Fine Dine,HSR,4.0,900.0,"North Indian, Mughlai, Chinese, South Indian",126
+Namdhari's Salad Bar,Indiranagar,3.9,300.0,"Juices, Fast Food, Desserts, Salad",82
+Karavalli - The Gateway Hotel,Residency Road,4.5,3500.0,"Mangalorean, Konkan, Seafood, Kerala",675
+The Tao Terraces,MG Road,4.0,2100.0,"Thai, Japanese, Korean, Burmese, Chinese",1913
+Punjab Bistro,Koramangala 7th Block,4.4,1500.0,North Indian,456
+New Prashanth Hotel,Banashankari,3.9,650.0,"Biryani, North Indian, Seafood, Andhra",388
+Cream Chemistry,Frazer Town,3.9,500.0,"Ice Cream, Desserts",149
+55 Wall Street,JP Nagar,3.9,1300.0,"Finger Food, North Indian, Chinese",1763
+Empire Restaurant,Indiranagar,4.2,750.0,"North Indian, Mughlai, South Indian, Chinese",8176
+The Blackboard Bakery,Lavelle Road,3.8,1000.0,"Cafe, Bakery, Continental",98
+Pasta Street,Cunningham Road,4.5,1300.0,"Italian, Pizza, Salad",1623
+Chaat Street,Kalyan Nagar,4.1,250.0,"Street Food, North Indian",498
+Kailash Parbat,Whitefield,2.6,400.0,North Indian,84
+Sagar Fast Food,BTM,3.7,300.0,"South Indian, Chinese, North Indian",67
+Foodhall,MG Road,4.0,1000.0,"Italian, Bakery, Fast Food",113
+Third Wave Coffee Roasters,HSR,4.1,800.0,"Cafe, Continental",142
+Mangalore Pearl,Jayanagar,3.8,650.0,"Mangalorean, Seafood, Chinese, Biryani",242
+Petoo,Old Madras Road,4.1,800.0,"North Indian, Fast Food, Street Food",220
+Kadai Crust - Amma Veetu Samayal,Indiranagar,3.8,700.0,"Chettinad, South Indian, Biryani",263
+Beach Hut,JP Nagar,3.5,650.0,"North Indian, Chinese",134
+Andhra Grills,JP Nagar,3.0,800.0,"Andhra, North Indian, Biryani",55
+Tangerine - Davanam Sarovar Portico Suites,Koramangala 2nd Block,4.0,1100.0,"Continental, Italian, North Indian, Asian, Bakery, Chinese, European, Japanese",152
+Tipsy Bull - The Bar Exchange,Bellandur,4.4,1400.0,"North Indian, Chinese, Continental, Mexican",2232
+Salt - Indian Restaurant Bar & Grill,Koramangala 7th Block,4.4,1500.0,"North Indian, Mughlai, Biryani",677
+Vaathsalya Millet Cafe,JP Nagar,4.1,500.0,"Healthy Food, South Indian",294
+The Marash,Koramangala 5th Block,4.3,250.0,"Turkish, Desserts",65
+Hammered,Cunningham Road,4.7,1300.0,"North Indian, Thai, Japanese, Continental, Cafe",4677
+Oye Hoye,Kalyan Nagar,3.8,300.0,North Indian,69
+Silsila,Koramangala 4th Block,2.7,800.0,North Indian,47
+Treatley,Whitefield,3.1,500.0,"North Indian, Fast Food",425
+An Egg Story,Kalyan Nagar,4.0,600.0,"Cafe, Continental, American, Italian",241
+Haveli,Marathahalli,3.7,700.0,"Biryani, North Indian, Mughlai",61
+Kalingas,BTM,3.9,250.0,"Oriya, Fast Food",179
+The Second Wife,Hennur,3.7,800.0,"South Indian, Andhra, Biryani",68
+One Atria Cafe,Race Course Road,3.8,1600.0,"South Indian, Continental, North Indian",102
+NH8,Whitefield,4.1,800.0,Rajasthani,471
+Downtown,Residency Road,3.7,1000.0,"North Indian, Continental",293
+Sidewalk Cafe & Bar - The Paul Bangalore,Domlur,4.2,1500.0,"European, Italian, Asian",217
+Firewood Biryani,Residency Road,3.9,400.0,"Biryani, Kebab, Rolls",456
+Rolls Plaza,Marathahalli,3.7,200.0,"Fast Food, Chinese, Rolls",63
+The Jade Kitchen,JP Nagar,4.0,600.0,"Chinese, Thai",118
+Royal Paris,BTM,3.8,1000.0,"North Indian, Arabian, Chinese",72
+The Vape,HSR,4.0,800.0,"Asian, Beverages",603
+Cafe Cerrise,Ulsoor,3.8,600.0,"Cafe, Continental, Salad",99
+JS Food Court,Kammanahalli,3.8,400.0,"Fast Food, Juices",127
+Delhi Restaurant,Whitefield,3.6,350.0,"North Indian, Mughlai, Chinese",196
+Rajan's Cafe,Domlur,2.8,300.0,"North Indian, Chinese, Fast Food",79
+Tastybites.com,Brookefield,3.7,150.0,"Fast Food, Sandwich, South Indian",82
+Lounge 189,HSR,3.8,1300.0,"Continental, Italian",157
+Sigree Global Grill,Kalyan Nagar,4.4,1400.0,"North Indian, BBQ",1099
+Dice N Dine,Koramangala 5th Block,4.3,900.0,"Continental, Cafe, Italian, Fast Food, Steak",1805
+Kanteen The Eatery,Bannerghatta Road,3.9,400.0,North Indian,78
+The Lassi Park,Jayanagar,4.1,200.0,"Juices, Desserts",185
+Krishna Sagar,BTM,3.9,300.0,"South Indian, North Indian, Chinese",52
+Empire Restaurant,JP Nagar,4.1,750.0,"North Indian, Mughlai, South Indian, Chinese",2402
+Bubblewrap Waffle Co.,Jayanagar,4.4,400.0,"Desserts, Beverages",356
+Nandhana Palace,Kammanahalli,4.1,800.0,"Andhra, Biryani, North Indian, Chinese",737
+The Chocolate Heaven,Kalyan Nagar,4.1,700.0,"Desserts, Cafe, Italian, Beverages",399
+Dolci Desserts,Cunningham Road,4.3,750.0,"Cafe, Desserts",652
+BabaYaga's,Indiranagar,4.1,1500.0,"American, Finger Food",201
+MISU,St. Marks Road,4.5,1700.0,"Asian, Japanese, Korean, Indonesian, Malaysian, Singaporean",1250
+ThrowBack - Pub & Dine,Langford Town,3.9,1000.0,"Italian, North Indian, Continental",234
+Chowpatty,Koramangala 1st Block,3.6,300.0,"North Indian, Fast Food, Street Food",95
+House Stark Cafe,HSR,3.9,300.0,"Cafe, Desserts, Fast Food, Burger",44
+Once Upon A Flame,HSR,4.5,1200.0,"Steak, Continental, Burger, BBQ",2068
+Pop Hop,Bellandur,4.0,300.0,"Ice Cream, Desserts",57
+The Good Grain,Residency Road,4.1,400.0,"Healthy Food, North Indian, South Indian",54
+Mugs N Burgers,Brookefield,4.0,600.0,"Cafe, Burger, Chinese, Fast Food, Beverages",130
+SS Bucket Biryani,Kammanahalli,4.0,600.0,"Biryani, North Indian, Chinese",161
+C. K. Mega Hot Food,BTM,3.9,600.0,"Chinese, Momos",101
+Cafe On The Way,Koramangala 3rd Block,4.0,500.0,Cafe,275
+House Of Commons,HSR,4.7,1000.0,"Continental, Asian, North Indian",3573
+Oye Hoye,Kalyan Nagar,3.8,300.0,North Indian,69
+Trick Or Treat,Brigade Road,4.2,500.0,"Cafe, Burger, Continental, Pizza, Steak",620
+Nanda's,Sarjapur Road,3.3,600.0,"North Indian, Chinese, Andhra",215
+Juice Junction Food Court,Koramangala 6th Block,3.7,250.0,"Beverages, Juices, Fast Food",70
+Ta'aam,Cunningham Road,4.1,750.0,"North Indian, Mughlai, Arabian, Chinese",402
+Imperio Restaurant,Kalyan Nagar,4.5,800.0,"North Indian, Mughlai, Biryani, South Indian, Beverages",1228
+Jose's Mess,BTM,4.4,300.0,"Kerala, South Indian, Biryani",320
+Bombay Adda,Koramangala 7th Block,4.4,1100.0,Modern Indian,2362
+Cafe Shuffle,Banashankari,4.2,600.0,"Cafe, Italian, Continental",150
+Chung Wah Opus,JP Nagar,3.0,650.0,"Chinese, Thai",59
+Mahadii's,Kammanahalli,3.9,600.0,"Andhra, North Indian, Chinese",219
+One Atria Cafe,Race Course Road,3.8,1600.0,"South Indian, Continental, North Indian",110
+NH8,Indiranagar,4.1,800.0,Rajasthani,2075
+The Rasoiya Street,HSR,4.1,800.0,"North Indian, Continental, Mediterranean, Chinese",1324
+Jalsa,Banashankari,4.1,800.0,"North Indian, Mughlai, Chinese",775
+KFC,Koramangala 6th Block,3.8,450.0,"Burger, Fast Food",480
+Srinidhi Sagar,Whitefield,3.7,300.0,"South Indian, Chinese, North Indian",53
+Waffle Magic,Koramangala 6th Block,4.1,700.0,"Cafe, Desserts",87
+Zhang's - Chinese Restaurant,JP Nagar,4.1,700.0,"Chinese, Momos",588
+Buff Buffet Buff,Koramangala 5th Block,4.5,1500.0,"North Indian, Chinese, Continental, Thai, Salad",3130
+Jalsa,Banashankari,4.1,800.0,"North Indian, Mughlai, Chinese",775
+Java City,Jayanagar,2.6,450.0,"Cafe, American, Pizza",157
+Fresh Pressery Cafe,Koramangala 5th Block,4.1,1200.0,"Cafe, Healthy Food, Salad, Beverages, Desserts",141
+New Sagar Fast Food,Rajajinagar,3.6,450.0,"South Indian, North Indian",68
+Sagar Fast Food,BTM,3.7,300.0,"South Indian, Chinese, North Indian",67
+Warm Oven,Domlur,4.3,500.0,"Bakery, Desserts",895
+Chai Mania,Marathahalli,2.8,300.0,"Cafe, Tea, Beverages",67
+Hotel Emirates,RT Nagar,3.1,500.0,"North Indian, Chinese, Arabian, Kebab",94
+Vasudev Adiga's,Church Street,3.4,250.0,"South Indian, North Indian, Chinese, Street Food",60
+The Irish House,Bellandur,4.2,1700.0,"European, American",858
+The London Shakes,Marathahalli,4.1,300.0,"Fast Food, Beverages",59
+Arya Hungry?,Koramangala 7th Block,4.3,450.0,North Indian,280
+Draggers CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Kalyan Nagar,4.1,900.0,"Cafe, Continental, North Indian",274
+Cafe Medley,Koramangala 5th Block,4.2,800.0,"Cafe, Continental, Burger",1063
+Chung Wah Opus,JP Nagar,3.0,650.0,"Chinese, Thai",57
+Oldtown Dilli,Koramangala 4th Block,4.1,750.0,"Mughlai, North Indian, Turkish, Afghan",259
+Goli Vada Pav No. 1,Bellandur,3.3,200.0,Street Food,84
+Bold,Marathahalli,3.9,1500.0,"Modern Indian, Continental, North Indian",866
+Spice Cove - I.V Sanctum,Majestic,3.8,750.0,"North Indian, South Indian, Continental, Asian",88
+All Shook Up!,Domlur,3.9,300.0,"Desserts, Beverages",77
+The Sofraah Kebabs & Kurries - Eden Park Restaurants,Jayanagar,3.8,1350.0,"North Indian, Afghani",176
+Kitchen Katta,Sanjay Nagar,4.1,300.0,Maharashtrian,196
+Malnad Military Hotel,Koramangala 7th Block,3.8,500.0,"South Indian, Chinese",40
+Bhagini IRIS,Whitefield,3.7,600.0,"North Indian, Chinese",115
+Cafe Happytizing,Electronic City,4.1,700.0,"Cafe, Sandwich, Pizza, North Indian, Mexican",351
+Smally's Resto Cafe,Koramangala 5th Block,4.2,650.0,"Cafe, Italian, Burger, American, Steak",1706
+Nagarjuna,Residency Road,4.3,800.0,"Andhra, Biryani",1773
+Kanthari,Kalyan Nagar,3.9,400.0,"North Indian, Kerala, Chinese",93
+Hatti Punjab Di,Brigade Road,3.4,450.0,North Indian,8
+Punjabi Dhaba,Majestic,3.6,350.0,North Indian,79
+Ente Keralam,Ulsoor,4.0,1300.0,"Kerala, Seafood",1104
+Kolkata Kitchen,Electronic City,3.2,400.0,"North Indian, Fast Food, Biryani",231
+Sherlock's Pub,Kalyan Nagar,3.8,1300.0,"Continental, North Indian, Chinese, Italian",360
+Pallavi North Indian Veg Restaurant,JP Nagar,3.7,450.0,"Biryani, North Indian, Chinese",246
+Om Made Cafe,Koramangala 5th Block,4.0,1300.0,"Cafe, Continental, European, Juices",2729
+New Punjabi Hotel,Indiranagar,3.7,350.0,"North Indian, Chinese",123
+Vegan Heat,Koramangala 1st Block,4.1,650.0,"Healthy Food, Salad",314
+Nagarjuna,Koramangala 5th Block,4.3,800.0,"Andhra, North Indian, Biryani",2304
+Smacznego,Banashankari,4.2,550.0,"Cafe, Mexican, Italian, Momos, Beverages",504
+Bonum cibum,HSR,4.5,1200.0,"Lebanese, Turkish",237
+Parivar,Jayanagar,3.8,500.0,"North Indian, Chinese",109
+Crawl Street,Koramangala 5th Block,4.3,1200.0,"Continental, Finger Food, North Indian, Chinese",2572
+Kudla - Hotel Ramanashree,Richmond Road,4.2,1200.0,"South Indian, Andhra, Chinese",354
+People Tree Cafe,Jayanagar,3.7,400.0,"Cafe, Fast Food, Beverages",168
+Dash In,BTM,3.1,600.0,"North Indian, Chinese, Kerala",53
+Bonum cibum,HSR,4.5,1200.0,"Lebanese, Turkish",188
+Woodstok,Indiranagar,4.1,1400.0,"Continental, Italian, Steak, American",1052
+Dhuaan,Koramangala 5th Block,4.3,800.0,"Cafe, Continental",138
+Flavours - Octave Hotel & Spa,Sarjapur Road,3.0,700.0,"North Indian, Chinese",197
+Swad Punjab Da,BTM,4.1,150.0,North Indian,133
+Rolls On Wheels,Banaswadi,2.8,300.0,"Fast Food, Rolls, Momos",69
+Ginger Greens,Kalyan Nagar,3.9,750.0,"Andhra, Chinese, North Indian",300
+Cheesiano Pizza,JP Nagar,4.0,700.0,"Pizza, Italian",199
+Targaryen's Kitchen,JP Nagar,3.6,600.0,"Chinese, North Indian, Mughlai",43
+Scottish Pub,St. Marks Road,3.9,600.0,Finger Food,190
+Buff Buffet Buff,Koramangala 5th Block,4.5,1500.0,"North Indian, Chinese, Continental, Thai, Salad",3174
+Kaayal,Brookefield,3.2,500.0,"Kerala, Chinese",267
+The Brewing Bean,Bellandur,3.7,500.0,Cafe,47
+Sidewalk - The Garden Bar,Marathahalli,4.4,1300.0,"North Indian, Continental, Chinese, Thai",3004
+Masala Oota,Residency Road,3.6,500.0,"South Indian, Biryani",79
+The Biere Club,Lavelle Road,4.3,1700.0,"Continental, BBQ, Finger Food",3484
+Caraway Kitchen - Conrad Bengaluru,Ulsoor,4.3,2800.0,"American, Continental, North Indian, South Indian",165
+Zero Mile Punjab,HSR,4.1,800.0,"North Indian, Mughlai",1342
+Cravy Wings,Bannerghatta Road,4.2,400.0,"American, Burger, Fast Food",289
+Kobe Sizzlers,Brigade Road,4.1,1500.0,"American, Continental, Fast Food, Steak",1131
+Anupam's Coast II Coast,Church Street,4.2,1400.0,"Seafood, Mangalorean, North Indian, Chinese",856
+FreshMenu,Central Bangalore,3.6,450.0,"Continental, Asian, Healthy Food, Burger, Biryani, Pizza, Italian, Fast Food",385
+Zee5 Loft,Koramangala 6th Block,4.4,500.0,"Cafe, North Indian, Pizza, Sandwich, Salad",362
+RockSalt,St. Marks Road,4.4,1900.0,Modern Indian,484
+Dadi's Dum Biryani,BTM,4.1,800.0,"Biryani, North Indian, Mughlai",2723
+Dad's Cookhouse,Sarjapur Road,4.0,300.0,"North Indian, Street Food, Chinese, Fast Food",44
+Pooja Dosa Camp,Banaswadi,4.0,200.0,South Indian,134
+Sugarberryz Cakery,Commercial Street,3.9,1200.0,"Bakery, Desserts",58
+Samarkand,Infantry Road,4.1,1600.0,"North Indian, Mughlai",2049
+Sharaab Factory,Bellandur,3.9,1500.0,"Biryani, North Indian",406
+Dev's Gugababa,BTM,3.5,500.0,"Bengali, North Indian, Chinese",177
+Punjabi Food Point,Bellandur,3.3,450.0,"North Indian, Mughlai, Biryani, Chinese",200
+Mavalli Tiffin Room (MTR),Basavanagudi,4.5,250.0,South Indian,2896
+Shanmukha,Koramangala 5th Block,4.0,800.0,"Biryani, Andhra, North Indian, Chinese",784
+Biriyani Zone,HSR,3.9,800.0,"Biryani, North Indian, Chinese, Seafood",670
+Maa Bhook Lagi,Koramangala 4th Block,3.9,400.0,North Indian,297
+Kokomo,Koramangala 6th Block,4.0,500.0,"Thai, Chinese",195
+Blue Terrain - Novotel,Marathahalli,4.2,2000.0,"Spanish, Italian, Mediterranean",515
+So-Fat's Dosas,BTM,3.8,200.0,South Indian,43
+Taco Bell,Koramangala 6th Block,4.1,600.0,"Mexican, American, Fast Food",1963
+Mitran Da Junction,Koramangala 6th Block,4.1,600.0,North Indian,322
+Shezan,Cunningham Road,4.1,600.0,"Chinese, Continental, North Indian, Mughlai, Steak",391
+Mamma Mexicana,MG Road,2.2,1000.0,Mexican,406
+Chai Point,Residency Road,4.0,250.0,"Fast Food, Beverages",134
+The Fixx,Koramangala 4th Block,4.3,1200.0,"Continental, South Indian, Italian, North Indian, Chinese",224
+Delite Chaat House,Koramangala 6th Block,3.9,300.0,"Street Food, Gujarati",501
+Punjabi Times,Bellandur,4.1,1100.0,North Indian,1691
+YORK St.,Koramangala 5th Block,4.4,900.0,"Cafe, European, Continental",939
+Krispy Kreme,HSR,3.9,300.0,"Desserts, Beverages",150
+Soda Bottle Opener Wala,Lavelle Road,4.4,1300.0,"Parsi, North Indian",3651
+The Gluten Free Baking Co.,Banaswadi,3.8,400.0,Bakery,41
+Shaan-E-Punjab,"ITPL Main Road, Whitefield",2.9,500.0,North Indian,84
+Mr. Beans - Home Cafe,Koramangala 3rd Block,4.2,1000.0,"Cafe, Continental, Italian",2714
+CTR,Malleshwaram,4.8,150.0,South Indian,4421
+Under The Tree,Domlur,3.0,200.0,"Desserts, Juices, Fast Food",64
+Tewari Bros Mithai Shoppie,Commercial Street,3.8,300.0,"Fast Food, Mithai",59
+Stoked!,Koramangala 4th Block,4.3,850.0,"Cafe, Italian, Pizza",295
+THE BEL ST.,New BEL Road,3.9,1100.0,"Cafe, Italian, American, Continental",523
+Rangla Punjab,Bellandur,2.9,450.0,"North Indian, Chinese",313
+Namdhari's Salad Bar,Indiranagar,3.9,400.0,"Salad, Fast Food",82
+Rajdhani Thali Restaurant,Indiranagar,4.0,1000.0,North Indian,1134
+Thalassery Restaurant,Kammanahalli,3.9,800.0,"Seafood, Biryani, South Indian, North Indian, Chinese, Arabian, Kerala",420
+Watson's,Ulsoor,4.2,1300.0,"Finger Food, North Indian",1430
+The Chef's Kitchen,Kalyan Nagar,3.8,800.0,"Continental, North Indian, Chinese",311
+Moriz Restaurant,Brookefield,2.8,750.0,"Arabian, North Indian, Biryani, Chinese, Seafood",1878
+Aramane Donne Biriyani,BTM,3.9,300.0,"Biryani, Fast Food",191
+Avanti Indian Barbeque & Grill,Domlur,3.4,1100.0,North Indian,46
+The Tao Terraces,MG Road,3.9,2100.0,"Thai, Japanese, Korean, Burmese, Chinese",1940
+Malabar Coastal Cuisine,Koramangala 7th Block,3.6,550.0,Kerala,68
+99 Caffe,Brookefield,3.6,250.0,"South Indian, North Indian, Chinese",106
+Sreeraj Lassi Bar,Shivajinagar,3.9,150.0,"Beverages, Desserts",73
+Green Onion,Residency Road,4.3,550.0,Chinese,1187
+Rahhams,Shanti Nagar,2.6,700.0,"Mughlai, North Indian, Chinese",307
+Sandwichwallas,Basavanagudi,4.0,200.0,Fast Food,133
+Alibaba Cafe and Restaurant,Frazer Town,3.9,700.0,"Arabian, Middle Eastern",450
+Bistro Oui,Koramangala 5th Block,4.1,1200.0,"Cafe, Continental, Salad, Steak",402
+Vanas,Kammanahalli,4.0,400.0,"Mangalorean, Seafood",72
+Raj Darbar,Koramangala 6th Block,3.7,800.0,"North Indian, Chinese, Bengali",47
+Somilan Steak House,Church Street,4.3,800.0,"North Eastern, Asian, Naga, Steak, Momos",527
+Laddoos,Bellandur,2.9,250.0,"North Indian, Street Food, Mithai",163
+Ta'aam,Cunningham Road,4.1,750.0,"North Indian, Mughlai, Arabian, Chinese",403
+Biggies Burger 'n' More,Koramangala 6th Block,3.8,400.0,"Cafe, Burger, Fast Food",108
+Aryan's Kitchen,Whitefield,3.1,500.0,"North Indian, Fast Food",97
+Sunehri,Richmond Road,3.8,500.0,South Indian,67
+Bhagini IRIS,Whitefield,3.7,600.0,"North Indian, Chinese",115
+Paratha Plaza,Indiranagar,3.7,300.0,North Indian,156
+Cubbon Pavilion - ITC Gardenia,Richmond Road,4.3,2500.0,"European, Continental, Chinese, Thai",679
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Mor'ish,Richmond Road,4.1,700.0,"BBQ, Continental, Burger, Wraps, Pizza, Cafe",118
+The Coffee Bean & Tea Leaf,MG Road,3.8,700.0,Cafe,261
+Purani Dilli By Anand Sweets,Koramangala 5th Block,4.1,500.0,"North Indian, Fast Food",237
+The Tao Terraces,MG Road,4.0,2100.0,"Thai, Japanese, Korean, Burmese, Chinese",1913
+Chaatimes,BTM,3.4,200.0,"Street Food, Fast Food",47
+WAFL Co,Koramangala 5th Block,4.2,400.0,"Desserts, Beverages",53
+Capri Gastrobar,St. Marks Road,4.3,1200.0,"Mediterranean, Italian, Asian",300
+Siddique Kabab Centre,Jayanagar,3.1,550.0,"Mughlai, Kebab, Chinese",68
+Udupi Upahara,Koramangala 1st Block,3.6,300.0,"South Indian, North Indian",47
+Pizza Hut,New BEL Road,3.6,750.0,"Pizza, Fast Food",436
+Bangalore Pub Exchange,MG Road,4.1,1000.0,"Continental, Finger Food, Pizza, North Indian",209
+Harry's Bar + Cafe,Koramangala 7th Block,4.2,1400.0,"Asian, American, Mexican",1369
+B-hive,Koramangala 1st Block,4.3,1200.0,"Finger Food, North Indian",1550
+Cafe Srinidhi,Indiranagar,3.4,200.0,"South Indian, North Indian, Fast Food, Street Food",90
+Koshe Kosha,Koramangala 1st Block,4.0,600.0,"Bengali, Seafood",579
+4th Tea Block,Jayanagar,4.0,150.0,Cafe,62
+Tree Top,Wilson Garden,3.8,1000.0,"Continental, Chinese, North Indian, South Indian",75
+Hatch,Malleshwaram,4.2,1200.0,"North Indian, Mangalorean, Seafood",471
+Coastal Delight,Indiranagar,4.1,650.0,"Seafood, South Indian, North Indian, Mangalorean, Chinese",198
+Cilantro,Koramangala 4th Block,4.0,1500.0,"European, American, Continental, North Indian, Steak",281
+Avanti Indian Barbeque & Grill,Domlur,3.4,1100.0,North Indian,46
+Bottoms Up Resto Bar,Kalyan Nagar,3.9,1200.0,"Finger Food, Italian, Continental",248
+Vembanad - The Paul,Domlur,4.2,1800.0,"Seafood, Kerala",325
+Baba Chatkora,Koramangala 6th Block,4.2,1000.0,North Indian,823
+Berrylicious Cafe,MG Road,3.7,2500.0,Italian,82
+Aalishan Restaurant & Caterer,Koramangala 7th Block,3.5,650.0,"North Indian, Mughlai",889
+Nightfork,Koramangala 6th Block,3.7,500.0,"Chinese, Biryani, Pizza, Italian, North Indian",126
+Hotel Tom's Restaurant,Richmond Road,4.4,1000.0,"Mangalorean, Seafood, Chinese, North Indian",714
+Desi Cream Junction,Jayanagar,3.7,650.0,"Chinese, North Indian, Pizza, Italian",36
+On The Nose,BTM,3.8,600.0,"Cafe, Italian, Mexican, Chinese",615
+Lakeview Milkbar,Koramangala 8th Block,3.8,500.0,"Desserts, Cafe, Fast Food",291
+Tata Cha,Church Street,3.8,500.0,"Cafe, Tea, North Indian",68
+Biggies Burger 'n' More,Koramangala 6th Block,3.8,400.0,"Cafe, Burger, Fast Food",108
+Agent Jack's Bar,Indiranagar,4.0,1300.0,"Continental, North Indian, Italian",592
+Punjabi Kitchen,Whitefield,2.8,500.0,North Indian,68
+Dhuaan,Koramangala 5th Block,4.3,800.0,"Cafe, Continental",139
+Northwind,Seshadripuram,3.9,650.0,"Biryani, Chinese, North Indian, Mangalorean",83
+Vapour Brewpub and Diner,Sarjapur Road,4.6,1400.0,"North Indian, Continental, Italian",2726
+Cafe Mozaic - Taj MG Road Bengaluru,MG Road,4.1,2500.0,"North Indian, Italian, South Indian, Continental, Cafe, Salad",563
+Wall Street 657,Indiranagar,4.1,1200.0,"Finger Food, Continental",1858
+Kullad Cafe,BTM,3.9,200.0,"North Indian, Cafe, Fast Food, Beverages",333
+Savitha Family Restaurant,Koramangala 4th Block,4.0,500.0,North Indian,199
+Savoury Restaurant,Sarjapur Road,2.9,800.0,"Arabian, North Indian, Chinese, Kerala, Seafood, Biryani",827
+McDonald's,Basavanagudi,3.6,500.0,"Burger, Fast Food",276
+Faasos,Koramangala 8th Block,4.0,500.0,"North Indian, Biryani, Fast Food",461
+Costa Coffee,Koramangala 4th Block,4.0,500.0,"Cafe, Fast Food",236
+Black Jack,New BEL Road,3.7,1400.0,"North Indian, Chinese",318
+Galito's,Whitefield,4.6,1000.0,"African, Burger, Desserts, Beverages, Fast Food",595
+Vinaya Coffee Moments,JP Nagar,3.7,450.0,"Burger, Cafe, Desserts, Sandwich, Italian",46
+Khan Saheb Grills and Rolls,Jayanagar,3.9,350.0,"Fast Food, Rolls",135
+The Local,Kalyan Nagar,4.2,1400.0,"Finger Food, Continental, Italian, Salad",1196
+Udupi Upahara,Koramangala 1st Block,3.6,300.0,"South Indian, North Indian",47
+Mani's Dum Biryani,Kalyan Nagar,3.5,750.0,"Biryani, Andhra",122
+The Local - Burger Bar,Koramangala 6th Block,3.8,1500.0,"American, Pizza, Burger",152
+Tetto,Koramangala 1st Block,3.7,1200.0,Continental,130
+Domino's Pizza,MG Road,3.9,800.0,"Pizza, Fast Food",117
+Lotus Pavilion - ITC Gardenia,Richmond Road,4.2,3000.0,Continental,175
+Wangs Kitchen,HSR,2.4,1000.0,Chinese,438
+MealBox Inc.,Marathahalli,4.0,800.0,North Indian,34
+Shree Thali,Koramangala 5th Block,4.1,150.0,North Indian,183
+Mega Bite,Whitefield,3.6,1100.0,"North Indian, Chinese, South Indian, Continental",54
+Rasoi,Banashankari,3.3,300.0,"North Indian, Chinese",128
+Matteo Coffea,Indiranagar,4.2,600.0,Cafe,858
+99 Pancakes,Church Street,4.1,300.0,"Desserts, Ice Cream",45
+Wanderers,Kalyan Nagar,4.0,1500.0,"Continental, North Indian, South Indian, Italian",662
+Oogway Express,JP Nagar,3.9,600.0,"Chinese, Thai, Momos",347
+Yauatcha,MG Road,4.6,2800.0,"Chinese, Asian, Cantonese, Tea",2372
+Madurai Idly Shop,Whitefield,2.9,200.0,South Indian,141
+Chef Master,Jayanagar,3.8,300.0,"Kerala, North Indian, Chinese",75
+Indy's Comfort Food,Shivajinagar,4.1,300.0,"North Indian, Beverages, Fast Food",399
+Altaf's Chillies Restaurant,Frazer Town,3.8,500.0,"North Indian, Chinese",229
+1722 Urban Bistro,Koramangala 5th Block,4.1,600.0,"North Indian, Chinese, Fast Food, Biryani",224
+Glen's Bakehouse,Lavelle Road,4.4,600.0,"Bakery, Cafe, Italian, Desserts",1115
+Slate Cafe,JP Nagar,4.1,600.0,"Cafe, Sandwich, Burger",53
+The Trundle,Jayanagar,3.7,700.0,"Chinese, Thai, Continental, North Indian",133
+PSV's Andhra Paradise,HSR,3.5,600.0,"Andhra, Chinese, North Indian, Hyderabadi",117
+Mani's Dum Biryani,Kalyan Nagar,3.5,750.0,"Biryani, Kebab",119
+Mumbai Spice,Malleshwaram,3.7,400.0,"North Indian, Chinese",100
+Mitran Da Junction,Koramangala 6th Block,4.1,600.0,North Indian,320
+Waffle Stories,Banaswadi,3.8,300.0,"Desserts, Beverages",31
+Domino's Pizza,New BEL Road,3.9,400.0,"Pizza, Fast Food",487
+Regency Park,Kammanahalli,3.6,700.0,"North Indian, Chinese, Seafood, Rolls",147
+Hammered,Cunningham Road,4.7,1300.0,"North Indian, Thai, Japanese, Continental, Cafe",4811
+Roll Over,Jayanagar,4.1,500.0,"Desserts, Ice Cream, Beverages, Fast Food, Sandwich",438
+Pizza Stop,Cunningham Road,3.9,600.0,"Pizza, Italian",146
+Capsicum Family Restaurant,BTM,3.8,800.0,"Biryani, North Indian",254
+Wall Street 657,Indiranagar,4.1,1200.0,"Finger Food, Continental",1858
+Frozen Bottle,Electronic City,4.1,400.0,"Beverages, Desserts",209
+Ente Keralam,Ulsoor,4.0,1300.0,"Kerala, Seafood",1096
+Watson's,JP Nagar,4.0,1300.0,"Finger Food, Chinese, Continental",1010
+Carlos Cake Cafe,Sarjapur Road,3.8,300.0,"Bakery, Desserts",83
+Chung's Chinese Corner,Malleshwaram,4.1,600.0,"Chinese, Asian, American, Seafood",444
+The Belgian Waffle Co.,Koramangala 5th Block,4.2,350.0,"Desserts, Beverages",180
+Yak's Kitchen,Brigade Road,4.0,400.0,"Chinese, Tibetan, Momos",166
+Corner House Ice Cream,Indiranagar,4.7,400.0,"Ice Cream, Desserts",2174
+Swathi Maharaja,Koramangala 4th Block,3.7,750.0,"Andhra, North Indian, Chinese, Biryani",291
+Lassi Resto Cafe,Electronic City,3.7,200.0,"Beverages, Fast Food",152
+Paratha Plaza,Koramangala 5th Block,3.9,250.0,North Indian,41
+Regency Park,Kammanahalli,3.6,700.0,"North Indian, Chinese, Seafood, Rolls",147
+Yummy Biryani,Koramangala 7th Block,3.8,200.0,Biryani,41
+Foodiction,Banashankari,2.8,500.0,"North Indian, Fast Food, Chinese, Burger",506
+California Burrito,Whitefield,3.9,400.0,"Mexican, Fast Food",123
+Punjabi Times,Bannerghatta Road,4.1,1000.0,North Indian,1027
+Burger King,Electronic City,3.8,600.0,"Burger, Fast Food, Beverages",560
+Trick Or Treat,Brigade Road,4.2,500.0,"Cafe, Burger, Continental, Pizza, Steak",618
+Fusion Lounge,Brigade Road,2.0,1500.0,Finger Food,398
+Peace Restaurant,Shanti Nagar,2.9,500.0,"Chinese, Tibetan, North Indian",111
+Antarastriya,Malleshwaram,3.9,200.0,"Chinese, Fast Food, Momos",461
+Healthie,Sarjapur Road,3.9,600.0,"Healthy Food, Beverages",70
+Grilliez,HSR,4.1,600.0,"Cafe, Arabian, Continental, Turkish, Fast Food, Burger, Beverages",564
+20 Char - Sterlings MAC Hotel,Old Airport Road,4.0,1400.0,"Chinese, Continental, North Indian, South Indian, Arabian",427
+Oregano Soul Food,Whitefield,4.1,700.0,Cafe,142
+Mecaf Family Restaurant,BTM,3.9,600.0,"North Indian, Chinese, Fast Food, Rolls, Beverages",214
+The Chameleon,Electronic City,4.1,1200.0,Finger Food,163
+Refresh,Whitefield,3.6,400.0,"Continental, Chinese, Fast Food, Rolls, Momos",297
+Sarjapur Social,Sarjapur Road,4.6,1500.0,"American, North Indian, Chinese, Finger Food",1193
+Wat-a-Burger!,Jayanagar,3.9,500.0,"Burger, Sandwich, Beverages",109
+Hyderabadi Biryani Hub,BTM,3.6,600.0,"Biryani, North Indian, Chinese",221
+Smokey Tribe Restaurant,Koramangala 7th Block,3.8,650.0,"North Eastern, Chinese",265
+Little Kitchen,Koramangala 1st Block,3.6,400.0,"Salad, Biryani, Chinese, North Indian, Kerala, Desserts, Seafood, South Indian",82
+Le Gateau - The Cake Shop,Old Airport Road,4.4,600.0,"Desserts, Bakery",536
+Odissi Restaurant,BTM,2.9,200.0,Oriya,67
+Rajdhani Thali Restaurant,Whitefield,3.9,900.0,"Rajasthani, Gujarati, North Indian",902
+Puff Cafe,New BEL Road,3.7,700.0,"Cafe, Italian, American",126
+Aramane Donne Biriyani,BTM,3.9,300.0,"Biryani, Fast Food",191
+Avista Cafe Pizzeria,Hennur,4.5,650.0,"Cafe, Italian",506
+Aashish Foods,Marathahalli,3.8,150.0,North Indian,35
+Khazana Food Paradise,Richmond Road,4.1,400.0,"North Indian, Biryani",362
+Hyderabadi Biryani Hub,BTM,3.6,600.0,"Biryani, North Indian, Chinese",218
+La Pino'z Pizza,Koramangala 4th Block,4.1,600.0,"Italian, Pizza, Beverages",509
+Gundappa Donne Biryani,Koramangala 7th Block,3.1,200.0,Biryani,117
+Corner House Ice Cream,Marathahalli,4.5,400.0,"Ice Cream, Desserts",971
+Pecos Hideout,BTM,4.0,1100.0,Finger Food,169
+Tummy Fuel,Jayanagar,4.2,400.0,"Cafe, Beverages, Fast Food",450
+Kebarbiq,Koramangala 7th Block,4.0,800.0,"North Indian, Arabian, Mughlai, Middle Eastern, Grill",138
+Masala Klub - The Taj West End,Race Course Road,4.4,4000.0,"North Indian, South Indian",309
+Shaken & Stirred,Race Course Road,3.9,1500.0,"Continental, North Indian, Chinese",86
+Dreamcatcher,Bannerghatta Road,3.9,600.0,Cafe,49
+TLP Cafe,Malleshwaram,3.9,400.0,"Cafe, Italian",252
+Mainland China,Whitefield,4.7,1700.0,Chinese,1542
+Oregano Pizzeria,Koramangala 4th Block,3.7,450.0,"Cafe, Italian, Pizza",52
+Swadista Aahar,BTM,4.2,300.0,"South Indian, North Indian, Chinese, Street Food",787
+A2B - Adyar Ananda Bhavan,Electronic City,3.6,400.0,"South Indian, North Indian, Chinese, Street Food, Fast Food",213
+The Only Place,Church Street,4.2,1000.0,"Italian, American, Steak, Continental, BBQ, Salad",2934
+Munchies,Brigade Road,3.9,250.0,"Fast Food, Bakery",64
+Chapter One Bar | Maiin,New BEL Road,4.2,1400.0,"Continental, Italian, North Indian",997
+Starbucks,JP Nagar,4.2,700.0,"Cafe, Desserts",386
+Northern Route,St. Marks Road,4.1,300.0,"North Indian, Street Food",159
+Ande Ka Funda,Kumaraswamy Layout,3.3,250.0,"North Indian, Fast Food, Rolls",117
+Roll Over,Malleshwaram,3.9,500.0,"Ice Cream, Beverages, Fast Food",89
+Tarbouche,Koramangala 5th Block,4.1,300.0,"Turkish, Rolls",268
+Konark Vegetarian Restaurant,Residency Road,4.1,500.0,"North Indian, Chinese, Continental, South Indian, Street Food, Juices",1014
+Bologna,Indiranagar,4.5,1000.0,Italian,769
+Salem Kitchen,Brookefield,3.4,550.0,"Chettinad, Chinese, South Indian",230
+WOW! Momo,Koramangala 7th Block,3.8,400.0,"Tibetan, Momos",102
+Pappu Da Dhaba,Jayanagar,3.0,400.0,"North Indian, Fast Food, Beverages, Momos",57
+Malabar,Jeevan Bhima Nagar,3.0,400.0,"Kerala, Seafood, Biryani",162
+Sai Santhi Cafe,Marathahalli,3.8,400.0,"South Indian, North Indian, Chinese",69
+Hoppipola,Church Street,4.3,1300.0,"Continental, Mediterranean, European",1708
+Chocolate D'Luxe,Lavelle Road,4.1,550.0,Desserts,183
+The Local - Terrace Drinkery,Koramangala 6th Block,4.0,1000.0,"Continental, American, Pizza, BBQ",1408
+Hunan,Koramangala 5th Block,4.3,1100.0,"Chinese, Thai, Momos",2246
+Laughing Llama Gastropub,Brigade Road,4.3,1600.0,"Finger Food, Continental, Pizza",394
+Asha Sweets Center,Indiranagar,4.1,200.0,"Mithai, Street Food",57
+Cafe Coffee Day The Lounge,HSR,3.8,650.0,"Cafe, Fast Food",76
+Drunken Monkey,Marathahalli,3.9,400.0,"Beverages, Fast Food",97
+Moto Store & CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Ulsoor,4.2,500.0,"Pizza, Italian, Cafe, Burger, Finger Food, Fast Food, Sandwich",382
+Somilan Steak House,Church Street,4.3,800.0,"North Eastern, Asian, Naga, Steak, Momos",544
+Barcode,Koramangala 4th Block,3.8,1300.0,"South Indian, North Indian",170
+Protein Grillhouse,Jayanagar,4.2,800.0,"Healthy Food, Continental, Juices, Salad, Burger, Beverages, Desserts",174
+Bhukkhad Baba,JP Nagar,3.7,250.0,"North Indian, Beverages",132
+Donne Biriyani Mane,Indiranagar,3.8,400.0,"Biryani, Kebab",140
+Bangalore Mandarin,Indiranagar,4.2,1100.0,"Chinese, Seafood",974
+Happy Belly Bakes,Frazer Town,4.1,350.0,"Bakery, Cafe",252
+Iyengar's Inn,Jayanagar,4.1,100.0,South Indian,53
+Kopper Kadai,Koramangala 5th Block,4.1,1200.0,"North Indian, Chinese",1697
+Paratha Plaza,HSR,3.1,200.0,North Indian,82
+The Oriental Spice - Ashraya Hotel,Infantry Road,3.9,1300.0,"Chinese, Thai, Indonesian",158
+Flow - Terrace Bar & Grill,JP Nagar,3.8,1000.0,"Pizza, Continental, North Indian, Chinese",82
+Portland Steakhouse & Cafe,MG Road,4.3,1500.0,"Steak, Italian, Continental, American, Burger, BBQ, Salad",2053
+Belgian Waffle Factory,Kalyan Nagar,4.8,400.0,Desserts,265
+Corner House Ice Cream,Jayanagar,4.5,400.0,"Ice Cream, Desserts",847
+Aalishan Restaurant & Caterer,Koramangala 7th Block,3.5,650.0,"North Indian, Mughlai",888
+Firangi Bake,Marathahalli,4.1,600.0,"Mexican, Italian",49
+Pani Kum Chai,Jayanagar,3.9,200.0,Fast Food,67
+Trick Or Treat,Brigade Road,4.2,500.0,"Cafe, Burger, Continental, Pizza, Steak",619
+Copper Chimney,Indiranagar,4.2,1200.0,"North Indian, Biryani",97
+Foxtrot - House of Subculture,Koramangala 3rd Block,4.4,1000.0,"Cafe, American, Asian, North Indian",377
+Prasiddhi Food Corner,JP Nagar,3.7,200.0,"Fast Food, North Indian, South Indian",170
+Spice It,Richmond Road,3.8,1200.0,"North Indian, Continental, Italian",52
+1131 Bar + Kitchen,Indiranagar,4.4,1500.0,"Continental, Asian, Italian, North Indian",2861
+The Waffle Press,St. Marks Road,4.2,400.0,"Desserts, Ice Cream",122
+Eat Repeat,Basavanagudi,3.9,150.0,South Indian,101
+Smacznego,Banashankari,4.2,550.0,"Cafe, Mexican, Italian, Momos, Beverages",504
+BISO - Citrus Hotels,Cunningham Road,3.9,1100.0,"North Indian, South Indian, Italian, Continental",158
+Coastal Delight,Indiranagar,4.1,650.0,"Seafood, South Indian, North Indian, Mangalorean, Chinese",198
+Aioli,Kalyan Nagar,4.2,1400.0,"Mediterranean, Continental, Italian, Salad",783
+The Ants Cafe & Store,Indiranagar,3.9,800.0,"Cafe, Italian, Fast Food",1387
+Off D' Hook,Marathahalli,3.7,800.0,"Continental, Biryani, Pizza, North Indian, Chinese, Momos, Andhra, Kebab",88
+Natural Ice Cream,New BEL Road,4.3,200.0,"Ice Cream, Beverages",273
+Kabab Magic,Marathahalli,3.0,500.0,"North Indian, Kebab, Fast Food",451
+Dialogues,JP Nagar,4.0,600.0,"Cafe, Continental",129
+Barbeque Station,Koramangala 7th Block,2.8,700.0,"North Indian, Chinese, BBQ",152
+Deja Vu Resto Bar,Bannerghatta Road,4.4,900.0,"North Indian, Italian",2496
+TAB - Take A Break,JP Nagar,4.1,550.0,"Cafe, Continental, Italian",521
+Baskin Robbins,JP Nagar,3.9,250.0,Ice Cream,86
+Thalassery Restaurant,Marathahalli,3.1,500.0,"Kerala, Biryani, South Indian, North Indian, Chinese, Arabian, Beverages",509
+Sri Vishnu Park,BTM,3.8,350.0,"South Indian, North Indian, Chinese",99
+Chulha Chauki Da Dhaba,Marathahalli,4.1,1000.0,North Indian,295
+Donne Biriyani Mane,Church Street,3.5,400.0,"Biryani, Kebab",62
+Apsara Ice Cream,HSR,4.5,200.0,"Ice Cream, Desserts",194
+Sunny's,Lavelle Road,4.1,2100.0,"European, Italian, Seafood, Continental",1341
+Brew Meister,Jayanagar,4.1,1500.0,"North Indian, Continental, Finger Food, American, Asian",1008
+Stories,JP Nagar,4.2,1200.0,"American, Chinese, Continental, North Indian",2206
+Vaho Kafe & Pressery,Bannerghatta Road,3.9,500.0,"Cafe, Healthy Food, Asian, Italian, North Indian, Biryani, Juices",125
+Bon Sante,Brigade Road,3.6,800.0,"Cafe, Continental, Italian",104
+Sai Foods,Marathahalli,4.1,200.0,North Indian,123
+Delitz Creamvilla Cafe,Bellandur,4.0,600.0,"Cafe, Desserts, Ice Cream",74
+Apna Punjab,BTM,3.7,450.0,"North Indian, Chinese, Fast Food",476
+Delightz,Koramangala 6th Block,4.0,300.0,"Desserts, Fast Food",40
+Steaming Mugs,Basavanagudi,4.0,700.0,Cafe,241
+Toscano,Koramangala 7th Block,4.5,1500.0,"Italian, Salad",710
+Chakum Chukum Calcutta On A Roll,Indiranagar,3.4,400.0,"Fast Food, Rolls",89
+Dhadoom,Malleshwaram,4.0,300.0,"North Indian, Street Food, Pizza, Burger, Sandwich",58
+Foodishq,Whitefield,3.7,450.0,North Indian,72
+The Spice Bazaar,Lavelle Road,4.2,1000.0,"North Indian, Mughlai",337
+Little Italy,Kalyan Nagar,4.2,1500.0,"Salad, Healthy Food, Italian, Juices, Mexican, Pizza",405
+Soda Bottle Opener Wala,Lavelle Road,4.4,1300.0,"Parsi, North Indian",3727
+Donne Biriyani House,Indiranagar,4.0,300.0,Biryani,472
+Sotally Tober,Koramangala 4th Block,4.4,1200.0,"Asian, Burger, Pizza, Chinese, Finger Food",4081
+Cafe Coffee Day,Indiranagar,3.7,900.0,"Cafe, Fast Food",72
+Upahara Darshini,Basavanagudi,3.9,600.0,"North Indian, Chinese, South Indian, Fast Food",40
+Enerjuvate Studio & Cafe,Jayanagar,4.2,800.0,"Cafe, Continental, Beverages, Healthy Food, Desserts, Sandwich, Pizza, Salad",738
+Chocolate D'Luxe,Lavelle Road,4.1,550.0,Desserts,183
+Sweet Truth,Old Airport Road,4.3,500.0,"Bakery, Desserts",26
+Subway,Bannerghatta Road,3.2,600.0,"Salad, Fast Food",166
+Sabari Juice Junction,Jeevan Bhima Nagar,4.1,250.0,"Beverages, Sandwich",128
+Chapati House,Ejipura,3.9,300.0,North Indian,34
+Mars Chicken Delight,Koramangala 1st Block,3.7,500.0,"North Indian, Chinese, Biryani, Beverages",107
+Chapati House,Ejipura,3.9,300.0,North Indian,34
+Mani's Dum Biryani,Bellandur,4.0,750.0,"Biryani, Kebab",894
+Jai Jinendra,Koramangala 6th Block,4.0,200.0,"Street Food, Beverages",98
+Tandoor Garden,BTM,3.6,350.0,"North Indian, Chinese, Kebab",71
+Brews N Bites,Jayanagar,2.9,650.0,"Chinese, Fast Food, Cafe",62
+20 Feet High,Church Street,4.0,1000.0,"American, Continental, Steak, Salad",941
+Sloshed,Basaveshwara Nagar,3.9,1200.0,"Arabian, Chinese, Continental, North Indian, Finger Food",96
+Marzipan Cafe & Bakery,Ulsoor,4.2,700.0,"Cafe, Mediterranean, Bakery, Greek",431
+Kanti Sweets,Jayanagar,3.9,400.0,"Mithai, Street Food",148
+New Punjabi Hotel,BTM,3.7,400.0,"North Indian, Chinese",178
+Ramji Chaiwale,Koramangala 1st Block,3.8,250.0,"Beverages, Fast Food",93
+Natural Ice Cream,Basaveshwara Nagar,4.2,200.0,"Ice Cream, Beverages",148
+Parika Multicuisine Restaurant,Richmond Road,3.8,1200.0,"North Indian, Chinese, Mughlai",203
+The Black Pearl,Koramangala 5th Block,4.7,1400.0,"North Indian, European, Mediterranean",10471
+Ruchis Point,Banashankari,3.8,200.0,"Fast Food, Chinese",75
+Veena Stores,Malleshwaram,4.5,150.0,South Indian,2407
+Calvin's,Koramangala 5th Block,3.8,800.0,Desserts,433
+FreshMenu,Koramangala,3.9,450.0,"Healthy Food, Chinese, Biryani, North Indian, Continental, Salad, American, Burger",582
+Not Just Parathas,Kaggadasapura,3.8,500.0,"North Indian, Chinese",170
+Andhra Ruchulu,JP Nagar,4.2,800.0,"Andhra, North Indian",1430
+Bathinda Dine,Bellandur,4.0,950.0,North Indian,230
+Asha Sweets Centre,JP Nagar,3.9,250.0,"Mithai, Street Food",42
+Chapter One Bar | Maiin,New BEL Road,4.2,1400.0,"Continental, Italian, North Indian",997
+Shanmukha,Whitefield,3.9,800.0,"Biryani, Andhra, North Indian, Chinese",770
+Kabab Magic,BTM,3.8,500.0,"North Indian, Kebab, Fast Food",884
+Chef Baker's,Bellandur,3.6,600.0,"Bakery, Fast Food, Pizza, Burger",136
+Panchavati Gaurav Thali,Brigade Road,4.0,800.0,"Rajasthani, Gujarati",930
+Ghee Positive,Koramangala 8th Block,3.8,300.0,"North Indian, Chinese",48
+Salt - Indian Restaurant Bar & Grill,Koramangala 7th Block,4.4,1500.0,"North Indian, Mughlai, Biryani",677
+Calicut Restaurant,Kammanahalli,3.6,450.0,"Kerala, South Indian, North Indian, Chinese",76
+55 Wall Street,JP Nagar,3.9,1300.0,"Finger Food, North Indian, Chinese",1779
+Eggzotic,Domlur,3.9,500.0,"North Indian, Chinese, Biryani, Fast Food",391
+Niice Cream,Koramangala 5th Block,3.8,400.0,"Ice Cream, Beverages, Desserts",38
+Zingron,Koramangala 7th Block,4.0,750.0,"Chinese, Naga",510
+Zeeshan,Koramangala 7th Block,3.8,700.0,"North Indian, Kebab, Biryani, Rolls",214
+Fresh Pressery Cafe,Lavelle Road,4.1,1200.0,"Cafe, Italian, Healthy Food",104
+Tiamo - Conrad Bengaluru,Ulsoor,4.2,2500.0,"Italian, Mediterranean",149
+Halli Mane,Malleshwaram,4.0,250.0,"South Indian, North Indian, Chinese",1192
+Hyderabad Biryaani House,Koramangala 5th Block,4.1,750.0,"Biryani, North Indian, Chinese, Hyderabadi",1118
+Pin Me Down,BTM,4.5,800.0,"Continental, Mexican, Chinese, North Indian",811
+Lazeez,Koramangala 5th Block,3.2,600.0,"North Indian, Mughlai, Biryani",908
+Subway,Basavanagudi,3.8,500.0,"Salad, Fast Food, Sandwich, Healthy Food",177
+Carnival de Goa,Ulsoor,4.2,1000.0,"Goan, Mangalorean, Pizza",980
+Rahhams,Kammanahalli,3.5,700.0,"Mughlai, North Indian, Chinese",316
+Myu Bar at Gilly's Redefined,Koramangala 4th Block,4.4,1200.0,"American, North Indian, Pizza, Finger Food, Continental, Italian",1237
+Momoz,Kammanahalli,3.9,500.0,"Chinese, Momos, Seafood",187
+CTR,Malleshwaram,4.7,150.0,South Indian,4408
+Barbeque Nation,Ulsoor,4.4,1600.0,"North Indian, European, Mediterranean, BBQ, Kebab",1081
+55 Wall Street,JP Nagar,3.9,1300.0,"Finger Food, North Indian, Chinese",1774
+Chai Cafe,Indiranagar,3.9,200.0,Cafe,49
+Tandoori Knight,Banashankari,3.0,450.0,"North Indian, Chinese, Biryani, Kebab",290
+Mumbai Kulfi,HSR,4.0,100.0,Ice Cream,92
+Calvin's,Koramangala 5th Block,3.8,800.0,Desserts,434
+Gilly's Restobar,Koramangala 5th Block,4.5,1000.0,"Finger Food, Continental, North Indian",3919
+Hyderabadi Biryani Hub,BTM,3.6,600.0,"Biryani, North Indian, Chinese",221
+Jade,Brookefield,3.7,750.0,"Chinese, Seafood, Momos",690
+Kund Indian Barbeque,Indiranagar,4.0,1100.0,"North Indian, Mughlai",869
+Bansuri Sweets,Koramangala 6th Block,3.7,250.0,"Mithai, North Indian, Street Food",73
+Masala Central,Frazer Town,3.7,300.0,North Indian,74
+Cravy Wings,Bannerghatta Road,4.2,400.0,"American, Burger, Fast Food",289
+Haji Ali Juice Centre,Commercial Street,4.1,350.0,"Fast Food, Pizza, Rolls, Beverages, Juices",80
+Communiti,Residency Road,4.7,1500.0,"Continental, BBQ, Salad",3920
+Murphy's Brewhouse - The Paul Bangalore,Domlur,4.3,1700.0,"Continental, North Indian, Finger Food",2039
+TLP Cafe,Malleshwaram,3.9,400.0,"Cafe, Italian",252
+Citrus Cafe - Lemon Tree Hotel,Electronic City,3.9,2200.0,"North Indian, Continental, South Indian",285
+Punjab Bistro,Whitefield,4.2,1500.0,North Indian,84
+Chai Point,HSR,4.0,250.0,"Fast Food, Beverages",323
+Little Chef,Richmond Road,4.0,550.0,Chinese,102
+Royal Treat,Koramangala 5th Block,4.1,500.0,"North Indian, Chinese, Biryani",442
+Hotel Crossroads,Marathahalli,3.6,650.0,"Andhra, Biryani",87
+Ujwal Restaurant,Vasanth Nagar,3.9,550.0,"Seafood, North Indian, Chinese",134
+Hotel Moonlight,Malleshwaram,3.9,500.0,"Chinese, North Indian",115
+KFC,BTM,4.0,400.0,"Burger, Fast Food",358
+Kanti Sweets,Brookefield,4.2,400.0,"Mithai, Street Food",226
+Royal Paris,BTM,3.8,1000.0,"North Indian, Arabian, Chinese",71
+Sonar Bangala,Koramangala 5th Block,3.8,500.0,"Bengali, North Indian",76
+Desi Wok,BTM,2.7,500.0,"North Indian, Chinese",76
+Narmadha's Hyderabad Biriyani,BTM,3.9,600.0,"Biryani, Hyderabadi",207
+Richie Rich,Race Course Road,4.0,450.0,"Desserts, Beverages, Fast Food, Ice Cream",630
+TRUE BLEU RESTO CAFE,HSR,4.2,400.0,"Pizza, Burger, Sandwich, Coffee, Desserts, Continental, Salad, Asian",70
+Flavours Inn,New BEL Road,3.7,500.0,"Kerala, North Indian, Chinese",59
+Soul Indian Specialty - Svenska Design Hotel,Electronic City,3.7,2000.0,"North Indian, South Indian, Asian, Italian, Continental",266
+Mahjong Room - WelcomHotel Bengaluru,Richmond Road,4.4,1200.0,Chinese,127
+The Grill House,Ulsoor,4.1,1200.0,"American, Mexican, Italian, Steak",770
+Kabab Mehal,JP Nagar,3.8,400.0,"North Indian, Chinese, Kebab, Juices",234
+Eurasia Pasta and Barbeque by Little Italy,Jayanagar,4.1,1200.0,"Italian, Fast Food, Salad, BBQ",1064
+Brownie Heaven,Cunningham Road,4.2,300.0,"Desserts, Fast Food",34
+Khai Khai,HSR,3.9,450.0,Bengali,50
+My Tea House,Banashankari,3.6,600.0,"Italian, Fast Food, Cafe, European",62
+Airlines Hotel,Lavelle Road,4.0,400.0,"South Indian, North Indian, Street Food",872
+7 Plates,Frazer Town,3.9,600.0,"North Indian, Mughlai, Rolls, Fast Food",169
+Vinaya Cafe,JP Nagar,3.7,200.0,"South Indian, Street Food, Juices",55
+Mini Punjabi Dhaba,Banashankari,4.2,350.0,North Indian,287
+Mojo Pizza - 2X Toppings,Koramangala 6th Block,4.4,600.0,Pizza,115
+The Biriyani Pedia,BTM,4.0,300.0,"Biryani, North Indian",59
+Just Bake,Jeevan Bhima Nagar,3.0,400.0,"Bakery, Desserts",51
+Hyderabad Biryaani Palace,Sahakara Nagar,3.0,600.0,"North Indian, Chinese, Biryani",66
+Absolute Waffles,New BEL Road,3.9,200.0,"Desserts, Fast Food",49
+Shanghai Bistro,Sarjapur Road,4.1,800.0,"Chinese, Thai, Vietnamese",251
+Muthashy's,BTM,4.2,400.0,"Kerala, South Indian, Chinese",470
+Retreat Restaurant,RT Nagar,3.5,500.0,"Chinese, North Indian",86
+Moto Store & CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Ulsoor,4.2,500.0,"Pizza, Italian, Cafe, Burger, Finger Food, Fast Food, Sandwich",382
+Keventers,Koramangala 5th Block,4.0,400.0,"Desserts, Beverages, Ice Cream",169
+Udupi Thaja Thindi,BTM,2.9,250.0,"North Indian, South Indian, Chinese, Fast Food",42
+The Ritz-Carlton Bar - The Ritz-Carlton,Residency Road,4.0,2000.0,Finger Food,95
+Kadai Crust - Amma Veetu Samayal,Indiranagar,3.8,700.0,"Chettinad, South Indian, Biryani",263
+Cottage Loaf,Hennur,4.0,250.0,"Bakery, Fast Food",50
+The Sofraah Kebabs & Kurries - Eden Park Restaurants,Jayanagar,3.8,1350.0,"North Indian, Afghani",176
+Rasovara,Lavelle Road,4.3,1400.0,"Rajasthani, North Indian",765
+Faasos,Rajajinagar,3.9,500.0,"North Indian, Biryani, Fast Food",184
+Flavorsome Bakes,Bannerghatta Road,4.0,800.0,"Bakery, Desserts",93
+Kirthi's Biryani,Banashankari,3.8,700.0,"Chinese, Cafe, Italian",145
+Taaza Mithai,JP Nagar,3.9,100.0,"Mithai, Street Food",47
+Pulimunchi,Indiranagar,4.3,1000.0,"Mangalorean, Seafood",695
+Thalassery Restaurant,New BEL Road,3.8,600.0,"Kerala, Biryani, South Indian, North Indian, Chinese, Seafood, Juices",464
+Masala Oota,Residency Road,3.6,500.0,"South Indian, Biryani",79
+Dwaraka Grand,Kumaraswamy Layout,3.9,500.0,"South Indian, Chinese, Street Food, Juices",128
+Tipsy Bull - The Bar Exchange,Indiranagar,4.4,1400.0,"Chinese, Continental, North Indian, Mexican",2993
+Brewsky,JP Nagar,4.3,1600.0,"Continental, American",4321
+Fava,Lavelle Road,4.4,1200.0,"Healthy Food, Mediterranean, Desserts, Italian, Pizza, Salad, Kebab",2041
+Sri Lakshmi Dhaba,BTM,2.9,250.0,North Indian,257
+Siddharth Restaurant,Whitefield,3.6,400.0,"North Indian, Chinese",33
+Cream Stone,Koramangala 5th Block,4.2,500.0,"Desserts, Ice Cream, Beverages",346
+Domino's Pizza,Bellandur,3.6,800.0,"Pizza, Fast Food",260
+IceBreakers,Church Street,4.3,500.0,"Desserts, Ice Cream",184
+Ruposhi Bangla,Electronic City,4.0,400.0,"Bengali, Chinese, North Indian, Seafood",159
+Hanoi - Vietnamese Cuisine,Koramangala 4th Block,4.4,1000.0,Vietnamese,1808
+Dadi's Dum Biryani,BTM,4.1,800.0,"Biryani, North Indian, Mughlai",2732
+Sharma's Malai & Masala,Koramangala 1st Block,4.0,650.0,North Indian,457
+Salt Mango Tree,Indiranagar,4.2,800.0,Kerala,255
+Hoppipola,Kalyan Nagar,4.4,1200.0,"Continental, Fast Food, European",816
+Apsara Ice Cream,Bannerghatta Road,4.0,200.0,"Ice Cream, Desserts",65
+#L-81 Cafe,HSR,3.9,400.0,"Fast Food, Beverages",48
+Peppy Peppers,Banashankari,4.2,800.0,"Italian, North Indian, Mexican",244
+Bonum cibum,HSR,4.5,1200.0,"Lebanese, Turkish",229
+Chowmein,Seshadripuram,4.0,600.0,"North Indian, Chinese, Thai, Momos",280
+BBQ'D - Global Grill & Brewery,Lavelle Road,4.3,1500.0,"BBQ, North Indian",458
+Twiststick House,Basavanagudi,4.1,500.0,"Continental, Fast Food, Street Food, Momos",163
+Punjabi Tadka,HSR,2.8,400.0,"North Indian, Chinese",188
+Ghee Biryanis,BTM,3.4,500.0,"Biryani, North Indian",137
+Rajdhani Thali Restaurant,Koramangala 7th Block,4.0,900.0,North Indian,797
+Frozen Bottle,HSR,4.1,400.0,"Beverages, Desserts, Ice Cream",187
+Behrouz Biryani,Banashankari,3.9,650.0,Biryani,230
+Amour Fine Patisserie,HSR,4.0,500.0,"Cafe, Desserts, Continental",82
+Cafe Daily Bread,Bellandur,3.7,600.0,"Bakery, Fast Food, Italian",128
+Bhaiyaji Food Court,MG Road,3.4,300.0,"North Indian, Mithai",27
+Kanti Sweets,Brigade Road,3.9,400.0,"Mithai, Street Food",104
+PHEW (Play Hard Eat Wild),BTM,3.9,700.0,"Continental, Lebanese, Middle Eastern, North Indian, Chinese, BBQ, Cafe",487
+Krispy Kreme,Malleshwaram,4.1,300.0,"Desserts, Beverages",196
+Rajan's Cafe,Domlur,2.8,300.0,"North Indian, Chinese, Fast Food",79
+Sherlock's Pub,Koramangala 5th Block,3.9,1300.0,"Continental, North Indian, Chinese",600
+Drunken Monkey,HSR,4.0,400.0,"Beverages, Fast Food",120
+The Chariot,Brigade Road,2.9,350.0,"South Indian, North Indian, Chinese",50
+South Tiffins,HSR,3.6,150.0,South Indian,144
+Biriyani Zone,Whitefield,3.9,800.0,"Biryani, North Indian, Chinese, Seafood",1624
+California Burrito,Koramangala 5th Block,4.1,400.0,"Mexican, Fast Food",1227
+Falafel's - The Lebanese Haus,Koramangala 7th Block,2.9,300.0,Lebanese,53
+Catch-up-ino,Banashankari,3.9,800.0,"Cafe, Fast Food, Continental, Chinese, Momos",133
+Tawa Ghar Ka,HSR,3.8,350.0,North Indian,331
+Ibaco,Brigade Road,4.0,300.0,Desserts,93
+Big Mummy,Indiranagar,4.0,400.0,"Fast Food, Biryani",223
+Malabar,Jeevan Bhima Nagar,3.0,400.0,South Indian,159
+Nanda's,Sarjapur Road,3.3,600.0,"North Indian, Chinese, Andhra",213
+Bengaluru House,Jeevan Bhima Nagar,3.7,500.0,South Indian,45
+Drunken Monkey,BTM,4.2,400.0,"Beverages, Fast Food",115
+Roll Over,Jayanagar,4.1,500.0,"Desserts, Ice Cream, Beverages, Fast Food, Sandwich",438
+"3B's - Buddies, Bar & Barbecues",BTM,4.4,1100.0,"North Indian, Mediterranean, European, BBQ",1149
+Kataria's Pakwan,Kumaraswamy Layout,3.2,400.0,North Indian,96
+Mood For Food,Jeevan Bhima Nagar,4.0,800.0,"North Indian, Biryani",151
+Coco Grove Beer Cafe,Church Street,3.8,800.0,Continental,152
+Suchithra Biryani House,Marathahalli,4.0,500.0,"Andhra, Biryani, North Indian",395
+Dash In,BTM,3.1,600.0,"North Indian, Chinese, Kerala",53
+Swad,Electronic City,3.7,500.0,"North Indian, Chinese",38
+Biriyaniz,HSR,3.5,400.0,"Biryani, North Indian, Chinese, Andhra",304
+Bubblewrap Waffle Co.,Jayanagar,4.4,400.0,"Desserts, Beverages",360
+Amma's Pastries,Indiranagar,4.0,400.0,Bakery,74
+Om Made Cafe,Koramangala 5th Block,4.1,1300.0,"Cafe, Continental, European, Juices",2731
+Nossa Goa,Richmond Road,4.1,1000.0,"Goan, Seafood, Konkan, Desserts",300
+Rafoo Chakkar,Whitefield,3.9,300.0,"North Indian, Rolls",386
+Gorilla Barfare,Koramangala 6th Block,4.2,1400.0,"Continental, Pizza, Burger",270
+Daily Sushi,Whitefield,3.8,900.0,"Korean, Sushi",56
+Cinnamon,HSR,3.9,550.0,"North Indian, Chinese, Biryani",450
+Royal Bengal Corner,Electronic City,3.8,250.0,"Chinese, Fast Food, North Indian, Rolls",307
+Upahara Darshini,Basavanagudi,3.9,600.0,"North Indian, Chinese, South Indian, Fast Food",40
+Silsila,Koramangala 4th Block,2.7,800.0,North Indian,47
+Punjab Bistro,Koramangala 7th Block,4.4,1500.0,North Indian,455
+Patiala Lassi,Sanjay Nagar,4.1,150.0,Beverages,135
+Munchies,Brigade Road,3.9,250.0,"Fast Food, Bakery",65
+Bearfoot Cafe,Koramangala 6th Block,4.2,600.0,Cafe,177
+Avista Cafe Pizzeria,Hennur,4.5,650.0,"Cafe, Italian",506
+Mast Kalandar,Bellandur,2.1,450.0,North Indian,337
+Yummy Biryani,Koramangala 7th Block,3.8,200.0,Biryani,41
+Maria's Goan Kitchen,Koramangala 7th Block,3.9,750.0,"Goan, Chinese, Biryani",394
+Bella,Jayanagar,3.9,1000.0,"Mangalorean, Seafood, South Indian",143
+The Local - Terrace Drinkery,Koramangala 6th Block,4.0,1000.0,"Continental, American, Pizza, BBQ",1408
+Atithi Satkar,Sanjay Nagar,3.7,400.0,"South Indian, North Indian, Fast Food, Chinese",91
+Tangerine - Davanam Sarovar Portico Suites,Koramangala 2nd Block,4.0,1100.0,"Continental, Italian, North Indian, Asian, Bakery, Chinese, European, Japanese",151
+Chaiwala,Koramangala 1st Block,3.1,100.0,Fast Food,53
+Le Charcoal Xpress,HSR,4.0,500.0,"Arabian, BBQ, Rolls, Lebanese",164
+Lotus Pavilion - ITC Gardenia,Richmond Road,4.2,3000.0,Continental,178
+Sheesh Kebab,Frazer Town,4.1,700.0,North Indian,69
+Vijayalakshmi Veg,Jayanagar,3.9,200.0,South Indian,100
+Chicken County Grand,Bannerghatta Road,3.9,650.0,"North Indian, Chinese",323
+Chung's Chinese Corner,Indiranagar,2.7,600.0,"Chinese, Asian, American, Seafood",290
+The Waffle Press,St. Marks Road,4.3,400.0,"Desserts, Ice Cream",116
+Shandong,Hennur,4.0,500.0,"Chinese, Momos",220
+Biryani Club,Jeevan Bhima Nagar,2.9,400.0,"South Indian, Biryani",31
+Mishra's Pedha Big Foods,Jayanagar,3.9,200.0,"Desserts, Mithai",56
+Murphy's Brewhouse - The Paul Bangalore,Domlur,4.3,1700.0,"Continental, North Indian, Finger Food",2031
+Rajdhani Thali Restaurant,Koramangala 7th Block,4.0,900.0,North Indian,797
+Barbeque Nation,Ulsoor,4.4,1600.0,"North Indian, European, Mediterranean, BBQ, Kebab",1084
+Ande Ka Funda,Marathahalli,3.3,250.0,"North Indian, Chinese, Rolls",228
+Farzi Cafe,Lavelle Road,4.4,1500.0,Modern Indian,2428
+Aaharam,Koramangala 1st Block,4.0,350.0,"Chinese, North Indian",65
+Feaster,HSR,3.8,600.0,"Continental, Asian, Chinese, Italian, North Indian",88
+Cream & Fudge,Whitefield,3.9,250.0,"Ice Cream, Desserts",71
+Smoke - The Sizzler House,Nagawara,2.8,800.0,"Continental, North Indian, Chinese, Steak",100
+The Fixx,Koramangala 4th Block,4.3,1200.0,"Continental, South Indian, Italian, North Indian, Chinese",217
+Skylit - Citrus Hotels,Bellandur,3.6,1500.0,"North Indian, Mughlai, Mediterranean",259
+Spice It - Ibis Hotel,Bommanahalli,3.0,1200.0,"Asian, Continental, European, Fast Food, North Indian, Mughlai, South Indian",74
+Bangalir Rannaghar,Bannerghatta Road,2.9,250.0,"Bengali, North Indian, Chinese",58
+Amber Rush Restobar,Residency Road,4.1,1000.0,"Continental, Chinese, Fast Food",102
+Polamma's Mess,BTM,4.2,300.0,"North Indian, Chinese, Biryani",185
+Meat And Eat,JP Nagar,3.7,500.0,"Fast Food, Burger",81
+Cafe Treat - The Pride Hotel,Richmond Road,4.1,1000.0,"Continental, Asian, Italian",118
+Alfresco by Bene -Sheraton Grand Bangalore Hotel at...,Malleshwaram,3.7,2000.0,Continental,77
+Hungry Paunch,Koramangala 6th Block,4.0,350.0,"Bengali, Bihari",203
+The Blackboard Bakery,Lavelle Road,3.7,1000.0,"Cafe, Bakery, Continental",93
+LIT Gastro Pub,Jayanagar,3.8,1000.0,"Chinese, Continental, Burger, Pizza",197
+Sriracha,Lavelle Road,4.3,1500.0,"Thai, Chinese, Indonesian, Asian, Momos",688
+Inchara Restaurant,Banaswadi,3.4,500.0,"Chinese, North Indian, Hyderabadi, Biryani",182
+Wazir's,Shanti Nagar,3.3,500.0,"North Indian, Chinese",262
+Udupi Bhavan,HSR,3.8,400.0,"Chinese, North Indian, South Indian",170
+Cream Chemistry,HSR,3.9,500.0,"Ice Cream, Desserts",75
+New Prashanth Hotel,Jayanagar,3.6,750.0,"South Indian, Biryani, Chinese, North Indian",142
+Indy's Comfort Food,Shivajinagar,4.1,300.0,"North Indian, Beverages, Fast Food",399
+The Hub - Ibis Hotel,Bommanahalli,3.7,1500.0,"Finger Food, Fast Food",51
+#L-81 Cafe,HSR,3.9,400.0,"Fast Food, Beverages",48
+Vasudev Adiga's,Church Street,3.0,250.0,"South Indian, North Indian, Chinese, Street Food",53
+Fort Kochi,MG Road,4.1,1800.0,"Kerala, Seafood",336
+Paul's Dum Biryani,HBR Layout,4.0,400.0,"Biryani, Hyderabadi",148
+Bharjari Oota,Basavanagudi,3.9,350.0,South Indian,153
+Panchavati Gaurav Thali,Brigade Road,4.0,800.0,"Rajasthani, Gujarati",930
+The Rendezvous,Koramangala 4th Block,3.7,800.0,"Continental, Steak, Chinese, Salad, Desserts, Seafood, Italian",483
+Bombay Vada Pav Corner,Seshadripuram,4.2,150.0,Street Food,84
+Timepass Dinner,Basavanagudi,3.8,600.0,North Indian,286
+Polar Bear,Bellandur,4.2,400.0,"Ice Cream, Desserts, Beverages, Sandwich",214
+The Grill House,Ulsoor,4.1,1200.0,"American, Mexican, Italian, Steak",765
+Sri Udupi Park,Residency Road,3.8,200.0,"South Indian, Chinese",106
+Empire Restaurant,Frazer Town,4.1,750.0,"North Indian, Mughlai, South Indian, Chinese",1864
+Cafe Madhura,HSR,3.8,200.0,South Indian,59
+The Hidden Cafe,Koramangala 1st Block,3.9,350.0,"North Indian, Fast Food",96
+The Smoke Co.,Koramangala 6th Block,4.4,2500.0,"American, European",523
+Swathi,Rajajinagar,3.8,700.0,"Andhra, North Indian, Chinese",591
+Bun Maska Chai,Jeevan Bhima Nagar,3.9,250.0,"Street Food, Fast Food",120
+Sannidhi Grand,Kammanahalli,3.8,300.0,"South Indian, North Indian, Chinese, Street Food",49
+Billionaires Cafe,Koramangala 5th Block,3.8,600.0,"Cafe, Italian",47
+Min Mini Punjabi Dhaba,Koramangala 7th Block,3.9,400.0,North Indian,85
+Barleyz,Koramangala 6th Block,3.7,2000.0,"North Indian, Continental, Chinese",4650
+Java City,Jayanagar,2.6,450.0,"Cafe, American, Pizza",157
+A2B - Adyar Ananda Bhavan,HSR,2.8,400.0,"South Indian, North Indian, Chinese, Street Food, Fast Food",484
+Plan B,Brigade Road,4.2,1200.0,"American, Continental, BBQ, Steak",4428
+The Chaat Shop,Basavanagudi,2.5,200.0,Fast Food,35
+Mangala Hotel,Koramangala 1st Block,3.6,300.0,"Kerala, Chinese, North Indian",97
+55 Wall Street,JP Nagar,3.9,1300.0,"Finger Food, North Indian, Chinese",1786
+HQ,Whitefield,4.1,1000.0,"North Indian, Italian, Finger Food, Continental",466
+Eatzgreen,Marathahalli,3.8,500.0,"Healthy Food, South Indian, Fast Food, North Indian, Beverages",61
+Wolf'ish,Church Street,4.1,700.0,"Cafe, American, Italian, Pizza, Burger",460
+Coffee Mechanics,HBR Layout,4.3,700.0,"Cafe, Bakery, French, Jewish, Sandwich, Vegan, Coffee",191
+Aramane Restaurant,Rajajinagar,3.0,300.0,"South Indian, Chinese, Fast Food",75
+Bake Addiction,JP Nagar,4.1,500.0,"Bakery, Desserts",91
+World In A Bowl,Indiranagar,2.9,600.0,"Continental, North Indian, Desserts, Beverages",40
+Oye Amritsar,Koramangala 6th Block,4.0,600.0,North Indian,1863
+Cafe Treat - The Pride Hotel,Richmond Road,4.1,1000.0,"Continental, Asian, Italian",119
+Mid Night Hunting,Ejipura,3.7,300.0,"Fast Food, Italian",127
+The Breakfast Truck,Koramangala 6th Block,3.8,550.0,Continental,65
+Aaranya Restaurant,HSR,3.4,800.0,"North Indian, Chinese, Mughlai",212
+Punjab Mail,Malleshwaram,3.8,650.0,"North Indian, Chinese, Beverages",324
+Hyderabad Cuisine,"Varthur Main Road, Whitefield",2.8,650.0,"Seafood, Biryani, Hyderabadi, North Indian",70
+Ibaco,Indiranagar,4.0,300.0,Desserts,292
+KFC,Basavanagudi,3.8,400.0,"Burger, Fast Food",319
+Munchies,Brigade Road,3.9,250.0,"Fast Food, Bakery",65
+New Leaf Restaurant,Indiranagar,3.7,1500.0,Chinese,58
+Kobe Sizzlers,Indiranagar,4.1,1500.0,"American, Continental, Fast Food, Steak",1473
+Brownie Heaven,Cunningham Road,4.2,300.0,"Desserts, Fast Food",34
+Bangaliana,Koramangala 7th Block,3.9,600.0,Bengali,454
+Delicacy,Koramangala 4th Block,3.9,500.0,"Chinese, Thai, Momos",519
+Bella,Jayanagar,3.9,1000.0,"Mangalorean, Seafood, South Indian",142
+Zyara,HBR Layout,3.8,650.0,"North Indian, Mughlai, Chinese",191
+Indus Family Restaurant,BTM,3.8,600.0,"North Indian, Biryani, Chinese",117
+Cafe China,Banaswadi,3.7,500.0,Chinese,42
+Grills & Rolls,JP Nagar,2.5,400.0,"North Indian, Chinese, Fast Food, Rolls, Juices",321
+Mojo Pizza - 2X Toppings,Banashankari,4.2,600.0,Pizza,179
+@Italy,HSR,3.5,700.0,"Italian, Pizza",40
+Fava,Lavelle Road,4.4,1200.0,"Healthy Food, Mediterranean, Desserts, Italian, Pizza, Salad, Kebab",2052
+Cafe Thulp,Kammanahalli,4.0,1000.0,"Cafe, Burger, Italian, Salad",719
+Lassi Shop,Koramangala 5th Block,4.1,200.0,"Beverages, Ice Cream",211
+Gilly's Restobar,Koramangala 5th Block,4.5,1000.0,"Finger Food, Continental, North Indian",3903
+Barbeque Nation,Koramangala 1st Block,4.7,1600.0,"North Indian, European, Mediterranean, BBQ, Kebab",3628
+Toscano,Koramangala 7th Block,4.5,1500.0,"Italian, Salad",721
+Windmills Craftworks,Whitefield,4.6,2500.0,"American, North Indian, Salad",5954
+Chaitanya Cafe,JP Nagar,3.9,300.0,"South Indian, North Indian, Fast Food",92
+IceBreakers,Church Street,4.3,400.0,"Desserts, Ice Cream",182
+Naachiyar's,Ulsoor,3.9,600.0,Chettinad,117
+Tangerine - Davanam Sarovar Portico Suites,Koramangala 2nd Block,4.0,1100.0,"Continental, Italian, North Indian, Asian, Bakery, Chinese, European, Japanese",151
+Damodar Seth,Marathahalli,3.1,600.0,"Bengali, Chinese, North Indian",152
+The Grub Central,HSR,4.0,700.0,"Cafe, Italian, Continental",803
+Portland Steakhouse & Cafe,MG Road,4.3,1500.0,"Steak, Italian, Continental, American, Burger, BBQ, Salad",2040
+SGS Non Veg - Gundu Pulav,St. Marks Road,3.9,400.0,"Biryani, Fast Food",55
+Aroma Of Asia,Frazer Town,3.9,400.0,"Fast Food, Momos",49
+Bottoms Up Resto Bar,Kalyan Nagar,3.9,1200.0,"Finger Food, Italian, Continental",248
+Hari Super Sandwich,Basavanagudi,4.1,200.0,"Fast Food, Street Food",279
+Saatvikk,Brigade Road,2.8,650.0,"North Indian, South Indian, Continental",132
+Coconut Grove,Church Street,3.9,1200.0,"South Indian, Chettinad, Kerala, Seafood",681
+South Kitchen,Basavanagudi,4.3,100.0,South Indian,275
+Darbar,Banashankari,3.0,800.0,"North Indian, Chinese",98
+Taaza Mithai,JP Nagar,3.9,100.0,"Mithai, Street Food",48
+Szechuan Dragon,Banashankari,4.2,600.0,"Chinese, Thai, Momos",1647
+Imperial Restaurant,Mysore Road,3.7,750.0,"North Indian, Chinese, Biryani, Beverages",264
+Lucky Singh & Co,Whitefield,4.0,350.0,"Fast Food, North Indian, Rolls",38
+Black Pepper Lounge - Case de Bengaluru,Koramangala 6th Block,3.7,1200.0,Finger Food,81
+nu.tree,Sarjapur Road,4.3,400.0,"North Indian, Healthy Food, Beverages",300
+Empire Restaurant,Rajajinagar,4.0,750.0,"North Indian, Mughlai, South Indian, Chinese",630
+Kobe Sizzlers,Brigade Road,4.1,1500.0,"American, Continental, Fast Food, Steak",1120
+Onesta,JP Nagar,4.4,600.0,"Pizza, Cafe, Italian",4381
+7 Plates,Koramangala 5th Block,3.7,750.0,"Mughlai, Fast Food",259
+Smacznego,Banashankari,4.2,550.0,"Cafe, Mexican, Italian, Momos, Beverages",505
+Mudpipe Cafe,JP Nagar,3.9,800.0,"Cafe, Continental, North Indian",727
+Retreat Restaurant,RT Nagar,3.7,500.0,"Chinese, North Indian",88
+Sunehri,Richmond Road,3.8,500.0,South Indian,67
+Italia - The Park Bangalore,MG Road,3.7,2500.0,Italian,82
+HSR High Street,HSR,3.8,800.0,"Hyderabadi, North Indian, South Indian, Biryani",321
+Bangalore Brew Works,Residency Road,4.2,1700.0,"Continental, Italian",2212
+Banjara Melting Pot,Cunningham Road,4.2,1700.0,"North Indian, Chinese, Seafood",475
+Indian Coffee House,Church Street,4.0,200.0,South Indian,1221
+BISO - Citrus Hotels,Cunningham Road,3.9,1100.0,"North Indian, South Indian, Italian, Continental",158
+The Foodyz,JP Nagar,3.6,500.0,"North Indian, Chinese",43
+Sherlock's Pub,Brookefield,3.5,1500.0,"Continental, North Indian, Chinese",261
+The Chocolate Heaven,Whitefield,3.1,600.0,"Desserts, Cafe",175
+Rasoi,Banashankari,3.3,300.0,"North Indian, Chinese",128
+Onesta,Koramangala 4th Block,4.4,600.0,"Pizza, Cafe, Italian",9084
+The Blackboard Bakery,Lavelle Road,3.7,1000.0,"Cafe, Bakery, Continental",93
+Andhra Ruchulu,Brookefield,3.7,500.0,"Andhra, North Indian, Chinese, Biryani",106
+20 Char - Sterlings MAC Hotel,Old Airport Road,4.0,1400.0,"Chinese, Continental, North Indian, South Indian, Arabian",419
+Dadi's Dum Biryani,BTM,4.1,800.0,"Biryani, North Indian, Mughlai",2727
+The ThickShake Factory,Koramangala 7th Block,4.3,350.0,"Beverages, Juices",235
+Tim Tai,Koramangala 5th Block,4.4,1400.0,"Chinese, Thai, Asian, Malaysian, Vietnamese, Sri Lankan, Burmese",3677
+Light House Cafe,Marathahalli,3.7,700.0,"Cafe, Beverages, Continental, North Indian, Chinese",94
+Dev's Gugababa,BTM,3.5,500.0,"Bengali, North Indian, Chinese",177
+Ambur Star Briyani,BTM,3.7,400.0,"Biryani, Kebab",118
+Barbeque Nation,JP Nagar,4.7,1600.0,"North Indian, European, Mediterranean, BBQ, Kebab",3845
+The Belgian Waffle Co.,Koramangala 5th Block,4.2,350.0,"Desserts, Beverages",180
+Taaza Thindi,Banashankari,4.7,100.0,South Indian,651
+Ludo CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Kumaraswamy Layout,3.9,550.0,"Cafe, Chinese, Arabian",144
+Balle Balle Dhaba,Kalyan Nagar,3.6,500.0,"North Indian, Chinese",199
+Kullad Cafe,BTM,3.9,200.0,"North Indian, Cafe, Fast Food, Beverages",331
+Starbucks,JP Nagar,4.2,700.0,"Cafe, Desserts",386
+Coco Grove Beer Cafe,Church Street,3.8,800.0,Continental,151
+Drunkling - Sizzlers and Pub,Koramangala 5th Block,4.4,1000.0,"Chinese, Continental, North Indian, Burger, Pizza, Seafood",346
+Hatti Kaapi,Koramangala 5th Block,3.9,200.0,"South Indian, Beverages",237
+Zee5 Loft,Koramangala 6th Block,4.4,500.0,"Cafe, North Indian, Pizza, Sandwich, Salad",362
+Entropy Cafe,Koramangala 6th Block,4.1,600.0,"Cafe, Chinese, Pizza, North Indian, Burger",507
+Zam Zam Kabab House,Yeshwantpur,3.4,300.0,"North Indian, Chinese",89
+Simon Says Brew Works,Koramangala 5th Block,4.5,1400.0,"Continental, American, Italian, Modern Indian, Pizza, Burger",1932
+Ginger & Garlic,Brookefield,3.6,350.0,"South Indian, North Indian, Chinese",92
+Indian Tadka,Whitefield,3.7,700.0,North Indian,214
+Banjara Melting Pot,Koramangala 4th Block,4.2,1700.0,"North Indian, Chinese, Seafood",767
+Happy Brew,Koramangala 5th Block,4.0,1000.0,"Continental, American, Chinese, BBQ, Salad",2158
+Trick Or Treat,Brigade Road,4.2,500.0,"Cafe, Burger, Continental, Pizza, Steak",619
+The Orchard,Sadashiv Nagar,4.0,900.0,North Indian,672
+Rasovara,Lavelle Road,4.3,1400.0,"Rajasthani, North Indian",771
+Just Shawarma,New BEL Road,3.8,300.0,Arabian,179
+Imli,Indiranagar,3.9,800.0,"North Indian, Street Food",1849
+Sai Abhiruchi,BTM,3.8,800.0,"Andhra, North Indian, Biryani",339
+Foxtrot,Marathahalli,4.4,1200.0,"North Indian, Chinese, Continental, Momos",1184
+ReadyBowl,BTM,3.7,400.0,"Andhra, South Indian, North Indian, Biryani",69
+McDonald's,Brookefield,3.0,500.0,"Fast Food, Burger, Beverages, Cafe, Desserts",401
+The Paratha Company,Koramangala 4th Block,4.3,400.0,North Indian,287
+Friends Night Kitchen,Koramangala 6th Block,3.8,400.0,"Italian, Pizza",110
+Ember The Calabash,New BEL Road,4.1,800.0,"Cafe, Italian, Continental, Beverages",670
+Chai Point,HSR,4.0,250.0,"Tea, Beverages, Fast Food",316
+"Lush - Renaissance Hotel, Bengaluru",Race Course Road,4.5,1200.0,"North Indian, Continental",409
+Lakeview Milkbar,Koramangala 8th Block,3.8,500.0,"Desserts, Cafe, Fast Food",291
+Under The Tree,Domlur,3.0,200.0,"Desserts, Juices, Fast Food",64
+Marzipan Cafe & Bakery,Ulsoor,4.2,700.0,"Cafe, Mediterranean, Bakery, Greek, Beverages",444
+Namdhari's Salad Bar,Indiranagar,3.9,300.0,"Juices, Fast Food, Desserts, Salad",82
+Kanti Sweets,Sahakara Nagar,4.0,400.0,"Mithai, Street Food",159
+J Spice,Banashankari,3.8,750.0,"North Indian, Chinese",59
+Banjara Melting Pot,Koramangala 4th Block,4.2,1700.0,"North Indian, Chinese, Seafood",767
+New Udupi Upahara,Kalyan Nagar,3.7,200.0,"Chinese, North Indian, South Indian",85
+Smacznego,Banashankari,4.2,550.0,"Cafe, Mexican, Italian, Momos, Beverages",504
+Spice Code,JP Nagar,3.9,1000.0,"South Indian, North Indian, Chinese, Biryani",165
+East Delicious,Marathahalli,4.0,600.0,"Chinese, Thai",497
+Cafe Grill,Jeevan Bhima Nagar,4.1,300.0,"Chinese, North Indian, Rolls",496
+Sannidhi Grand,Kammanahalli,3.8,300.0,"South Indian, North Indian, Chinese, Street Food",52
+Kullad Cafe,BTM,3.9,200.0,"North Indian, Cafe, Fast Food, Beverages",333
+Grazers,Jayanagar,3.9,650.0,"Cafe, Burger, Continental, Italian, Desserts",295
+Barleyz,Koramangala 6th Block,3.8,2000.0,"North Indian, Continental, Chinese",4646
+Ovenstory Pizza,Sahakara Nagar,4.0,800.0,Pizza,120
+The Egg Factory,St. Marks Road,4.2,750.0,"Continental, American",1770
+Mandi,JP Nagar,3.8,800.0,North Indian,561
+Onesta,Whitefield,4.4,600.0,"Pizza, Cafe, Italian",2110
+Cafe Vivacity,Banashankari,3.8,650.0,Cafe,90
+Tandoori Junction,Marathahalli,3.9,400.0,"North Indian, Chinese, Biryani",81
+South Kitchen,Basavanagudi,4.3,100.0,South Indian,275
+Mighty Small,MG Road,4.1,1200.0,"Continental, Chinese",259
+Biergarten,Koramangala 5th Block,4.8,2100.0,"Continental, North Indian, Chinese, European, BBQ, Finger Food, Asian",516
+Smise,Koramangala 4th Block,4.0,650.0,"Cafe, Continental, Italian, Burger, Pizza",1208
+Chai Point,New BEL Road,4.0,250.0,"Fast Food, Beverages",108
+Blistering Barnacles,Indiranagar,3.9,1200.0,"Chinese, Continental, American, Steak",1224
+Green Pepper,Jeevan Bhima Nagar,3.9,600.0,"Seafood, South Indian, Chinese, Kerala",262
+Chez Nous - Novotel,Marathahalli,3.9,2500.0,"European, French, North Indian",125
+OPUS Club,Sarjapur Road,4.4,1900.0,"Continental, Italian, North Indian, Mexican",1558
+Grubhouse,Indiranagar,4.1,800.0,"Continental, Cafe, Steak",332
+Kadai Crust - Amma Veetu Samayal,Indiranagar,3.8,700.0,"Chettinad, South Indian, Biryani",263
+Aaharam,Koramangala 1st Block,4.0,350.0,"Chinese, North Indian",65
+Maraheb Restaurant,Kalyan Nagar,4.2,1000.0,Arabian,224
+Brewz Coffee,BTM,3.0,650.0,Cafe,61
+Bonfooder,Sarjapur Road,3.9,400.0,North Indian,36
+Asaivam Restaurant,Indiranagar,4.0,750.0,"Chettinad, South Indian",71
+Delite Chaat House,Koramangala 6th Block,3.9,300.0,"Street Food, Gujarati",499
+Kudla - Hotel Ramanashree,Richmond Road,4.1,1200.0,"South Indian, Andhra, Chinese",354
+Thai House,Brigade Road,4.2,700.0,Thai,125
+Hunan,Koramangala 5th Block,4.3,1100.0,"Chinese, Thai, Momos",2241
+Sagar Deluxe,Kumaraswamy Layout,3.2,300.0,"South Indian, North Indian, Chinese, Juices",167
+FreshMenu,Koramangala,3.9,450.0,"Healthy Food, Chinese, Biryani, North Indian, Continental, Salad, American, Burger",585
+Mama Mia!,Indiranagar,4.3,400.0,"Desserts, Cafe",420
+Samosa Party,Jeevan Bhima Nagar,4.1,150.0,"Street Food, Fast Food",374
+Empire Restaurant,Jayanagar,4.4,750.0,"North Indian, Mughlai, South Indian, Chinese",5060
+Kadamba Gardenia,Jalahalli,3.6,400.0,"South Indian, Chinese, North Indian, Street Food",74
+White Plate,MG Road,4.2,1500.0,"Thai, Continental, North Indian",260
+Mel's Korner,Church Street,3.8,500.0,Fast Food,95
+Real Fresh Dosa Corner,Brookefield,4.2,200.0,South Indian,267
+Nesara Mullti - Cuisine Family Dining & Garden...,Malleshwaram,2.7,800.0,"North Indian, Chinese, South Indian, Beverages",61
+Dal Tadkaa,Banashankari,2.5,500.0,North Indian,247
+Gelato Italiano,Whitefield,3.1,200.0,"Ice Cream, Bakery, Desserts",39
+Barleyz,Koramangala 6th Block,3.7,2000.0,"North Indian, Continental, Chinese",4652
+Ibaco,Koramangala 4th Block,4.2,300.0,Desserts,348
+Burger King,Indiranagar,4.0,600.0,"Burger, Fast Food, Beverages",1393
+Sandwichwallas,Jayanagar,3.9,200.0,Fast Food,105
+Rajan's Cafe,Domlur,2.8,300.0,"North Indian, Chinese, Fast Food",79
+Nuts Over Salads Cafe,Koramangala 5th Block,4.5,800.0,"Cafe, Salad",208
+Mudpipe Cafe,Cunningham Road,4.2,750.0,"Cafe, Continental, Italian, Burger",740
+Garma Garam,Bannerghatta Road,3.2,350.0,"North Indian, Chinese, Biryani, Rolls",144
+East Delicious,Marathahalli,4.0,600.0,"Chinese, Thai",501
+Maria's Goan Kitchen,Koramangala 7th Block,4.0,750.0,"Goan, Chinese, Biryani",396
+Desi Cream Junction,Jayanagar,3.7,650.0,"Chinese, North Indian, Pizza, Italian",36
+Aaha,Brookefield,3.6,300.0,"North Indian, Chinese",93
+World of Waffles,JP Nagar,3.9,400.0,Desserts,191
+Nandhana Palace,Koramangala 4th Block,4.1,800.0,"Andhra, Biryani, North Indian, Chinese",819
+Olive Bar And Kitchen,Richmond Road,4.5,1800.0,"Mediterranean, European, Salad",2198
+Tarbouche,Koramangala 5th Block,4.0,300.0,"Turkish, Rolls",265
+The Fisherman's Wharf,Sarjapur Road,4.3,1400.0,"Seafood, Goan, North Indian, Continental, Asian",4108
+Vaathsalya Millet Cafe,JP Nagar,4.1,500.0,"Healthy Food, South Indian",294
+Sri Udupi Park,Old Airport Road,3.7,400.0,"South Indian, Chinese, North Indian",443
+Aniram's,JP Nagar,4.1,500.0,"Chinese, North Indian",739
+Pot Biryani,Whitefield,3.1,600.0,"North Indian, Chinese, Biryani, Seafood",113
+Starbucks,Koramangala 7th Block,4.2,700.0,"Cafe, Desserts",1355
+Tree Top,Wilson Garden,3.8,1000.0,"Continental, Chinese, North Indian, South Indian",74
+Jalsa,Marathahalli,4.2,1500.0,"North Indian, Mughlai",2173
+Chavadi,Bannerghatta Road,4.4,1200.0,"Continental, North Indian, Pizza, Italian",2241
+Xian,Ulsoor,3.8,800.0,"Chinese, Thai",81
+Gundappa Donne Biryani,Koramangala 7th Block,3.1,200.0,Biryani,117
+Lovely Knights,Bellandur,3.5,500.0,"North Indian, Chinese",356
+Sweet Truth,Kalyan Nagar,3.9,500.0,"Bakery, Desserts",35
+Bademiyan Kebabs,Malleshwaram,3.8,600.0,"Kebab, Hyderabadi, Biryani, Charcoal Chicken",86
+A2B - Adyar Ananda Bhavan,Indiranagar,3.0,400.0,"South Indian, North Indian, Chinese, Street Food, Fast Food",566
+Polar Bear,Electronic City,4.0,400.0,"Ice Cream, Desserts, Beverages, Sandwich",145
+Nakkshatra,Indiranagar,3.9,1100.0,"North Indian, Andhra",79
+Cool Corner,Basavanagudi,4.2,250.0,"Street Food, Fast Food",196
+RS Shiv Sagar,Commercial Street,4.1,500.0,"South Indian, North Indian, Chinese",538
+Skoolroom,Ulsoor,4.3,700.0,"Cafe, Continental, Italian, Burger, Beverages",569
+The Bar Stock Exchange,St. Marks Road,4.3,1300.0,"Continental, Chinese, North Indian, Finger Food",609
+Sri Laxmi Venkateshwara Coffee Bar,Banashankari,4.4,100.0,South Indian,343
+Eating Love,Sarjapur Road,4.3,800.0,"Cafe, Italian, Pizza",149
+Byg Brewski Brewing Company,Sarjapur Road,4.9,1600.0,"Continental, North Indian, Italian, South Indian, Finger Food",16832
+Alampur Bar And Restaurant,Race Course Road,3.7,900.0,"Chinese, South Indian, North Indian",42
+Sunehri,Richmond Road,3.8,500.0,South Indian,67
+Brownie Heaven,Indiranagar,4.3,300.0,Desserts,127
+Roots,Koramangala 1st Block,4.6,1200.0,"North Indian, South Indian, Chinese, Continental, Mangalorean",1892
+Chai Point,Residency Road,4.0,250.0,"Fast Food, Beverages",135
+Thanco's Natural Ice Cream,HSR,3.9,450.0,"Ice Cream, Desserts",103
+Dalma,Koramangala 6th Block,3.9,600.0,Oriya,475
+Chung's Chinese Corner,Cunningham Road,3.3,600.0,"Chinese, Asian, American, Seafood",204
+Matsuri - The Chancery Hotel,Lavelle Road,4.4,1800.0,Japanese,185
+Chung Wah,Kalyan Nagar,4.0,800.0,"Chinese, Thai, Momos, Vietnamese",717
+Chung Wah,Bannerghatta Road,4.0,800.0,"Chinese, Thai, Momos, Vietnamese",536
+Leon Grill,Indiranagar,4.2,500.0,"Burger, Turkish, Arabian, Fast Food, Salad, Healthy Food, Desserts",315
+Sizzling Pasto,Marathahalli,4.1,1100.0,"Continental, Chinese, North Indian",99
+Chinita Real Mexican Food,Koramangala 5th Block,4.5,1200.0,Mexican,729
+Unicorn Bar & Restaurant,Infantry Road,3.9,800.0,"Seafood, North Indian, Chinese",119
+BIB-Breakfast in the Box,Whitefield,3.7,600.0,"American, Sandwich",61
+Imperial Restaurant,Koramangala 6th Block,3.6,800.0,"Seafood, Biryani, South Indian, Chettinad, Chinese, Arabian, Andhra, Kerala",241
+Memories of China - Taj MG Road Bengaluru,MG Road,4.3,3000.0,"Chinese, Momos",457
+Spicy Kitchen,HSR,3.8,500.0,"Andhra, North Indian",64
+Tiwari's,Jayanagar,3.8,200.0,"North Indian, Street Food",69
+Shiv Shakthi,HSR,4.0,100.0,"Street Food, North Indian",175
+La Grande Cafe,Jayanagar,3.8,400.0,Cafe,46
+Ragoo's,Jayanagar,3.9,800.0,"Italian, Pizza, North Indian, Salad",233
+Munchies,Brigade Road,3.9,250.0,"Fast Food, Bakery",65
+A Hole Lotta Love Cafe,Koramangala 5th Block,4.3,600.0,"Cafe, American, Burger, Sandwich, Beverages",2873
+Cafe Mangii,Lavelle Road,4.3,1600.0,"Italian, Continental, Pizza",1053
+The Belgian Waffle Co.,Indiranagar,4.0,400.0,Desserts,71
+RS Shiv Sagar,Basavanagudi,3.7,450.0,"North Indian, Chinese, South Indian, Fast Food, Juices",217
+The Fatty Bao - Asian Gastro Bar,Indiranagar,4.6,1200.0,"Asian, Thai, Vietnamese, Malaysian, Beverages",3760
+Fusion Lounge,Brigade Road,2.0,1500.0,Finger Food,396
+Rajanna Military Hotel,Jayanagar,4.1,400.0,"Biryani, Fast Food",171
