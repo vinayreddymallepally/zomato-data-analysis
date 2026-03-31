@@ -25,3 +25,6 @@ Developed a complete data analytics project including data cleaning, visualizati
 The dataset is too large to upload.  
 You can download it from Kaggle:
 https://www.kaggle.com/
+## Dataset
+A sample dataset is uploaded due to file size limits.
+Full dataset available on Kaggle.
