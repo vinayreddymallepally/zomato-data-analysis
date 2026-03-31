@@ -20,3 +20,8 @@ Interactive dashboard created using Power BI
 
 ## 🚀 Outcome
 Developed a complete data analytics project including data cleaning, visualization, and dashboard creation.
+
+## Dataset
+The dataset is too large to upload.  
+You can download it from Kaggle:
+https://www.kaggle.com/
